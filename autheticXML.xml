@@ -35,7 +35,7 @@ MAGICSW|magicsw|Magicsw|MAGICEDTECH|MagicEdtech|GuruKripa-PC|AZDigitalConv01</ap
   <application id="BTToolkit">
     <application_name>BT Toolkit</application_name>
     <application_expiry>30/08/2021</application_expiry>
-    <app_start>true</app_start>
+    <app_start>false</app_start>
     <version></version>
     <updated_version></updated_version>
     <download_link></download_link>
@@ -45,7 +45,7 @@ MAGICSW|magicsw|Magicsw|MAGICEDTECH|MagicEdtech|GuruKripa-PC|AZDigitalConv01</ap
   <application id="HCToolkit">
     <application_name>Harper Collins Toolkit</application_name>
     <application_expiry>30/07/2021</application_expiry>
-    <app_start>true</app_start>
+    <app_start>false</app_start>
     <version></version>
     <updated_version></updated_version>
     <download_link></download_link>
@@ -55,7 +55,7 @@ MAGICSW|magicsw|Magicsw|MAGICEDTECH|MagicEdtech|GuruKripa-PC|AZDigitalConv01</ap
    <application id="ImageSolution2020">
     <application_name>BT Toolkit</application_name>
     <application_expiry>30/11/2020</application_expiry>
-    <app_start>true</app_start>
+    <app_start>false</app_start>
     <version></version>
     <updated_version></updated_version>
     <download_link></download_link>
@@ -75,7 +75,7 @@ MAGICSW|magicsw|Magicsw|MAGICEDTECH|MagicEdtech|GuruKripa-PC|AZDigitalConv01</ap
    <application id="RPLUSReadingOrder">
     <application_name>EPUB Reading Correction Tool</application_name>
     <application_expiry>30/09/2020</application_expiry>
-    <app_start>true</app_start>
+    <app_start>false</app_start>
     <version></version>
     <updated_version></updated_version>
     <download_link></download_link>
@@ -96,7 +96,7 @@ MAGICSW|magicsw|Magicsw|MAGICEDTECH|MagicEdtech|GuruKripa-PC|AZDigitalConv01</ap
   <application id="VNV">
     <application_name>PDF Validation and Verification</application_name>
     <application_expiry>31/12/2021</application_expiry>
-    <app_start>true</app_start>
+    <app_start>false</app_start>
     <version></version>
     <updated_version></updated_version>
     <download_link></download_link>
@@ -296,7 +296,7 @@ MAGICSW|magicsw|Magicsw|MAGICEDTECH|MagicEdtech|GuruKripa-PC|AZDigitalConv01</ap
   <application id="dopbtsolution">
     <application_name>DOP EBOOK Conversion Solution</application_name>
     <application_expiry>30/08/2020</application_expiry>
-    <app_start>true</app_start>
+    <app_start>false</app_start>
     <version>1.0.1</version>
     <updated_version>1.0.1</updated_version>
     <download_link></download_link>
@@ -344,7 +344,7 @@ MAGICSW|magicsw|Magicsw|MAGICEDTECH|MagicEdtech|GuruKripa-PC|AZDigitalConv01</ap
       <application id="ItemRefDuplicacyRemoval">
     <application_name>ItemRef Duplicacy Removal</application_name>
     <application_expiry>16/08/2021</application_expiry>
-    <app_start>true</app_start>
+    <app_start>false</app_start>
     <version>1.0.1</version>
     <updated_version>1.0.1</updated_version>
     <limit>200000</limit>
