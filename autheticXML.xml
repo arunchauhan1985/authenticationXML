@@ -328,6 +328,22 @@ MAGICSW|magicsw|Magicsw|MAGICEDTECH|MagicEdtech|GuruKripa-PC|AZDigitalConv01</ap
     <application id="imagebasedpptool">
     <application_name>Text to Image Based PPT Conversion</application_name>
     <application_expiry>16/08/2021</application_expiry>
+    <app_start>false</app_start>
+    <version>1.0.1</version>
+    <updated_version>1.0.1</updated_version>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+    <serverDetails>
+    <server>10.11.7.77</server>
+    <dbName>none</dbName>
+    <uid>[magic], [demo]</uid>
+    <passwd>[magicsw], [magicsw]</passwd>
+  </serverDetails>
+  </application>
+   <application id="image2ppt">
+    <application_name>Text to Image Based PPT Conversion</application_name>
+    <application_expiry>16/08/2021</application_expiry>
     <app_start>true</app_start>
     <version>1.0.1</version>
     <updated_version>1.0.1</updated_version>
