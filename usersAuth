@@ -74,5 +74,9 @@
 <authID>B82A72A117B0</authID>
 <active>true</active>
 </user>
-
+<user id="USR106530F9D03C">
+<name>Arvinder Kumar</name>
+<authID>106530F9D03C</authID>
+<active>true</active>
+</user>
 </users>
