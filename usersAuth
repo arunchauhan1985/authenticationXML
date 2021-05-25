@@ -79,4 +79,9 @@
 <authID>106530F9D03C</authID>
 <active>true</active>
 </user>
+<user id="USRF8CAB832A17C">
+<name>Bob</name>
+<authID>F8CAB832A17C</authID>
+<active>true</active>
+</user>
 </users>
