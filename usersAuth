@@ -94,4 +94,14 @@
 <authID>Prateek</authID>
 <active>true</active>
 </user>
+<user id="USR2C56DC06B7DA">
+<name>Vipin</name>
+<authID>2C56DC06B7DA</authID>
+<active>true</active>
+</user>
+<user id="USRBalaram">
+<name>Balaram</name>
+<authID>Balaram</authID>
+<active>true</active>
+</user>
 </users>
