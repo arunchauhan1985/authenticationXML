@@ -629,7 +629,7 @@
   <application id="PanelSegregation">
     <application_name>PanelSegregation[akwpc!5396f]</application_name>
     <application_expiry>24/08/2021</application_expiry>
-    <app_start>false</app_start>
+    <app_start>true</app_start>
     <version>1.0.0</version>
     <updated_version>1.0.0</updated_version>
     <limit>200000</limit>
