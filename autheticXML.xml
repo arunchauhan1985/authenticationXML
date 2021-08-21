@@ -551,8 +551,32 @@
   <application id="COMCOCR">
     <application_name>COMCOCR</application_name>
     <application_expiry>30/08/2021</application_expiry>
+	<usrauthlink>https://raw.githubusercontent.com/ManPradeep/BnT/main/authdocean.xml</usrauthlink>
+	<usroffauthlink>http://163.53.85.250/pauth/authdocean.xml</usroffauthlink>
     <app_start>true</app_start>
 	<compallow>DOCEAN</compallow>
+    <version>1.0.0</version>
+    <updated_version>1.0.0</updated_version>
+    <limit>200000</limit>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+    <serverDetails>
+      <server>10.11.7.77</server>
+      <dbName>COMCOCR</dbName>
+      <uid></uid>
+      <passwd></passwd>
+      <connection>Offline</connection>
+      <Testing>Offline</Testing>
+    </serverDetails>
+  </application>
+  <application id="VDOCEANOCR">
+    <application_name>VDOCEANOCR</application_name>
+    <application_expiry>30/08/2021</application_expiry>
+    <app_start>true</app_start>
+	<compallow>VDOCEANOCR</compallow>
+	<usrauthlink>https://raw.githubusercontent.com/ManPradeep/BnT/main/authvdocean.xml</usrauthlink>
+	<usroffauthlink>http://163.53.85.250/pauth/authvdocean.xml</usroffauthlink>
     <version>1.0.0</version>
     <updated_version>1.0.0</updated_version>
     <limit>200000</limit>
@@ -573,6 +597,8 @@
     <application_expiry>30/08/2021</application_expiry>
     <app_start>true</app_start>
 	<compallow>VPROMPT</compallow>
+	<usrauthlink>https://raw.githubusercontent.com/ManPradeep/BnT/main/authvprompt.xml</usrauthlink>
+	<usroffauthlink>http://163.53.85.250/pauth/authvprompt.xml</usroffauthlink>
     <version>1.0.0</version>
     <updated_version>1.0.0</updated_version>
     <limit>200000</limit>
@@ -629,7 +655,7 @@
   <application id="PanelSegregation">
     <application_name>PanelSegregation[akwpc!5396f]</application_name>
     <application_expiry>24/08/2021</application_expiry>
-    <app_start>true</app_start>
+    <app_start>false</app_start>
     <version>1.0.0</version>
     <updated_version>1.0.0</updated_version>
     <limit>200000</limit>
