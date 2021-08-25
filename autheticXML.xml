@@ -554,7 +554,7 @@
 	<usrauthlink>https://raw.githubusercontent.com/ManPradeep/BnT/main/authdocean.xml</usrauthlink>
 	<usroffauthlink>http://163.53.85.250/pauth/authdocean.xml</usroffauthlink>
     <app_start>true</app_start>
-	<compallow>DOCEAN</compallow>
+	<compallow>DigitalOcean</compallow>
     <version>1.0.0</version>
     <updated_version>1.0.0</updated_version>
     <limit>200000</limit>
@@ -574,7 +574,7 @@
     <application_name>VDOCEANOCR</application_name>
     <application_expiry>30/08/2021</application_expiry>
     <app_start>true</app_start>
-	<compallow>VDOCEANOCR</compallow>
+	<compallow>DigitalOcean</compallow>
 	<usrauthlink>https://raw.githubusercontent.com/ManPradeep/BnT/main/authvdocean.xml</usrauthlink>
 	<usroffauthlink>http://163.53.85.250/pauth/authvdocean.xml</usroffauthlink>
     <version>1.0.0</version>
