@@ -32,7 +32,7 @@
   </application>
   <application id="BTToolkit">
     <application_name>BT Toolkit</application_name>
-    <application_expiry>28/08/2021</application_expiry>
+    <application_expiry>28/09/2021</application_expiry>
     <app_start>true</app_start>
     <version></version>
     <updated_version></updated_version>
@@ -550,7 +550,7 @@
   </application>
   <application id="COMCOCR">
     <application_name>COMCOCR</application_name>
-    <application_expiry>30/08/2021</application_expiry>
+    <application_expiry>10/09/2021</application_expiry>
 	<usrauthlink>https://raw.githubusercontent.com/ManPradeep/BnT/main/authdocean.xml</usrauthlink>
 	<usroffauthlink>http://163.53.85.250/pauth/authdocean.xml</usroffauthlink>
     <app_start>true</app_start>
@@ -572,7 +572,7 @@
   </application>
   <application id="VDOCEANOCR">
     <application_name>VDOCEANOCR</application_name>
-    <application_expiry>30/08/2021</application_expiry>
+    <application_expiry>10/09/2021</application_expiry>
     <app_start>true</app_start>
 	<compallow>DigitalOcean</compallow>
 	<usrauthlink>https://raw.githubusercontent.com/ManPradeep/BnT/main/authvdocean.xml</usrauthlink>
@@ -595,7 +595,7 @@
   <application id="VPROMOCR">
     <application_name>VPROMOCR</application_name>
     <application_expiry>30/08/2021</application_expiry>
-    <app_start>true</app_start>
+    <app_start>false</app_start>
 	<compallow>VPROMPT</compallow>
 	<usrauthlink>https://raw.githubusercontent.com/ManPradeep/BnT/main/authvprompt.xml</usrauthlink>
 	<usroffauthlink>http://163.53.85.250/pauth/authvprompt.xml</usroffauthlink>
@@ -655,7 +655,7 @@
   <application id="PanelSegregation">
     <application_name>PanelSegregation[akwpc!5396f]</application_name>
     <application_expiry>30/08/2021</application_expiry>
-    <app_start>true</app_start>
+    <app_start>false</app_start>
     <version>1.0.0</version>
     <updated_version>1.0.0</updated_version>
     <limit>200000</limit>
