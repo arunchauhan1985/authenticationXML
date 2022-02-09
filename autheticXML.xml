@@ -32,7 +32,7 @@
   </application> 
   <application id="BTToolkit"> 
     <application_name>BT Toolkit</application_name> 
-    <application_expiry>26/02/2022</application_expiry> 
+    <application_expiry>26/05/2022</application_expiry> 
     <app_start>true</app_start> 
     <version></version> 
     <updated_version></updated_version> 
@@ -42,7 +42,7 @@
   </application> 
   <application id="HCToolkit"> 
     <application_name>Harper Collins Toolkit</application_name> 
-    <application_expiry>30/01/2022</application_expiry> 
+    <application_expiry>30/05/2022</application_expiry> 
     <app_start>true</app_start> 
     <version></version> 
     <updated_version></updated_version> 
@@ -52,7 +52,7 @@
   </application> 
   <application id="ImageSolution2020"> 
     <application_name>BT Toolkit</application_name> 
-    <application_expiry>30/01/2022</application_expiry> 
+    <application_expiry>30/05/2022</application_expiry> 
     <app_start>true</app_start> 
     <version></version> 
     <updated_version></updated_version> 
