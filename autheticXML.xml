@@ -33,7 +33,7 @@
   <application id="BTToolkit"> 
     <application_name>BT Toolkit</application_name> 
     <application_expiry>26/05/2022</application_expiry> 
-    <app_start>true</app_start> 
+    <app_start>false</app_start> 
     <version></version> 
     <updated_version></updated_version> 
     <download_link></download_link> 
@@ -43,7 +43,7 @@
   <application id="HCToolkit"> 
     <application_name>Harper Collins Toolkit</application_name> 
     <application_expiry>30/05/2022</application_expiry> 
-    <app_start>true</app_start> 
+    <app_start>false</app_start> 
     <version></version> 
     <updated_version></updated_version> 
     <download_link></download_link> 
@@ -53,7 +53,7 @@
   <application id="ImageSolution2020"> 
     <application_name>BT Toolkit</application_name> 
     <application_expiry>30/05/2022</application_expiry> 
-    <app_start>true</app_start> 
+    <app_start>false</app_start> 
     <version></version> 
     <updated_version></updated_version> 
     <download_link></download_link> 
@@ -63,7 +63,7 @@
   <application id="ReadingOrder"> 
     <application_name>EPUB Reading Correction Tool</application_name> 
     <application_expiry>10/03/2021</application_expiry> 
-    <app_start>true</app_start> 
+    <app_start>false</app_start> 
     <version></version> 
     <updated_version></updated_version> 
     <download_link></download_link> 
@@ -73,7 +73,7 @@
   <application id="RPLUSReadingOrder"> 
     <application_name>EPUB Reading Correction Tool</application_name> 
     <application_expiry>30/05/2021</application_expiry> 
-    <app_start>true</app_start> 
+    <app_start>false</app_start> 
     <version></version> 
     <updated_version></updated_version> 
     <download_link></download_link> 
@@ -206,7 +206,7 @@
   <application id="image2mathHMH"> 
     <application_name>Image to MATH Tool</application_name> 
     <application_expiry>30/04/2022</application_expiry> 
-    <app_start>true</app_start> 
+    <app_start>false</app_start> 
     <version>1.0.1</version> 
     <updated_version>1.0.1</updated_version> 
     <download_link></download_link> 
@@ -216,7 +216,7 @@
   <application id="RPLUS"> 
     <application_name>Reader Plus PDF Conversion Tool</application_name> 
     <application_expiry>30/05/2021</application_expiry> 
-    <app_start>true</app_start> 
+    <app_start>false</app_start> 
     <version>1.0.1</version> 
     <updated_version>1.0.1</updated_version> 
     <download_link></download_link> 
@@ -294,7 +294,7 @@
   <application id="dopbtsolution"> 
     <application_name>DOP EBOOK Conversion Solution</application_name> 
     <application_expiry>30/08/2021</application_expiry> 
-    <app_start>true</app_start> 
+    <app_start>false</app_start> 
     <version>1.0.1</version> 
     <updated_version>1.0.1</updated_version> 
     <download_link></download_link> 
@@ -310,7 +310,7 @@
   <application id="capstonesmilsplitter"> 
     <application_name>Capstone SMIL Splitter</application_name> 
     <application_expiry>30/08/2020</application_expiry> 
-    <app_start>true</app_start> 
+    <app_start>false</app_start> 
     <version>1.0.1</version> 
     <updated_version>1.0.1</updated_version> 
     <download_link></download_link> 
@@ -342,7 +342,7 @@
   <application id="image2ppt"> 
     <application_name>Text to Image Based PPT Conversion</application_name> 
     <application_expiry>16/08/2021</application_expiry> 
-    <app_start>true</app_start> 
+    <app_start>false</app_start> 
     <version>1.0.1</version> 
     <updated_version>1.0.1</updated_version> 
     <download_link></download_link> 
@@ -392,7 +392,7 @@
   <application id="epub_utils"> 
     <application_name>EPUB Utils</application_name> 
     <application_expiry>30/12/2020</application_expiry> 
-    <app_start>true</app_start> 
+    <app_start>false</app_start> 
     <version>1.0.0</version> 
     <updated_version>1.0.0</updated_version> 
     <limit>200000</limit> 
@@ -409,7 +409,7 @@
   <application id="eduzoneUtils"> 
     <application_name>Eduzone Utils</application_name> 
     <application_expiry>30/12/2020</application_expiry> 
-    <app_start>true</app_start> 
+    <app_start>false</app_start> 
     <version>1.0.0</version> 
     <updated_version>1.0.0</updated_version> 
     <limit>200000</limit> 
@@ -426,7 +426,7 @@
   <application id="ligaturevalidator"> 
     <application_name>Ligature Validator</application_name> 
     <application_expiry>30/03/2021</application_expiry> 
-    <app_start>true</app_start> 
+    <app_start>false</app_start> 
     <version>1.0.0</version> 
     <updated_version>1.0.0</updated_version> 
     <limit>200000</limit> 
@@ -443,7 +443,7 @@
   <application id="accordionjsoncreator"> 
     <application_name>Accordion JSON Creator</application_name> 
     <application_expiry>30/03/2021</application_expiry> 
-    <app_start>true</app_start> 
+    <app_start>false</app_start> 
     <version>1.0.0</version> 
     <updated_version>1.0.0</updated_version> 
     <limit>200000</limit> 
@@ -460,7 +460,7 @@
   <application id="QCMS"> 
     <application_name>QCMS</application_name> 
     <application_expiry>25/05/2022</application_expiry> 
-    <app_start>true</app_start> 
+    <app_start>false</app_start> 
     <version>1.0.0</version> 
     <updated_version>1.0.0</updated_version> 
     <limit>200000</limit> 
@@ -478,7 +478,7 @@
   <application id="PlatformCompare"> 
     <application_name>Platform Compare</application_name> 
     <application_expiry>25/04/2022</application_expiry> 
-    <app_start>true</app_start> 
+    <app_start>false</app_start> 
     <version>1.0.0</version> 
     <updated_version>1.0.0</updated_version> 
     <limit>200000</limit> 
@@ -496,7 +496,7 @@
   <application id="BookCompareKit"> 
     <application_name>BookCompareKit</application_name> 
     <application_expiry>25/11/2022</application_expiry> 
-    <app_start>true</app_start> 
+    <app_start>false</app_start> 
     <version>1.0.0</version> 
     <updated_version>1.0.0</updated_version> 
     <limit>200000</limit> 
@@ -514,7 +514,7 @@
   <application id="ComicSmartPanelsApp"> 
     <application_name>ComicSmartPanelsApp</application_name> 
     <application_expiry>30/09/2022</application_expiry> 
-    <app_start>true</app_start> 
+    <app_start>false</app_start> 
     <version>1.0.0</version> 
     <updated_version>1.0.0</updated_version> 
     <limit>200000</limit> 
@@ -532,7 +532,7 @@
   <application id="ComicSmartPanelsViewer"> 
     <application_name>ComicSmartPanelsViewer</application_name> 
     <application_expiry>30/08/2022</application_expiry> 
-    <app_start>true</app_start> 
+    <app_start>false</app_start> 
     <version>1.0.0</version> 
     <updated_version>1.0.0</updated_version> 
     <limit>200000</limit> 
@@ -553,7 +553,7 @@
     <application_expiry>10/09/2021</application_expiry> 
 	<usrauthlink>https://raw.githubusercontent.com/ManPradeep/BnT/main/authdocean.xml</usrauthlink> 
 	<usroffauthlink>http://163.53.85.250/pauth/authdocean.xml</usroffauthlink> 
-    <app_start>true</app_start> 
+    <app_start>false</app_start> 
 	<compallow>DigitalOcean</compallow> 
     <version>1.0.0</version> 
     <updated_version>1.0.0</updated_version> 
@@ -573,7 +573,7 @@
   <application id="VDOCEANOCR"> 
     <application_name>VDOCEANOCR</application_name> 
     <application_expiry>10/09/2021</application_expiry> 
-    <app_start>true</app_start> 
+    <app_start>false</app_start> 
 	<compallow>DigitalOcean</compallow> 
 	<usrauthlink>https://raw.githubusercontent.com/ManPradeep/BnT/main/authvdocean.xml</usrauthlink> 
 	<usroffauthlink>http://163.53.85.250/pauth/authvdocean.xml</usroffauthlink> 
@@ -617,7 +617,7 @@
   <application id="EbookEditor"> 
     <application_name>EbookEditor</application_name> 
     <application_expiry>25/06/2021</application_expiry> 
-    <app_start>true</app_start> 
+    <app_start>false</app_start> 
     <version>1.0.0</version> 
     <updated_version>1.0.0</updated_version> 
     <limit>200000</limit> 
@@ -636,7 +636,7 @@
   <application id="CBZAutoOCR"> 
     <application_name>CBZAutoOCR</application_name> 
     <application_expiry>25/06/2021</application_expiry> 
-    <app_start>true</app_start> 
+    <app_start>false</app_start> 
     <version>1.0.0</version> 
     <updated_version>1.0.0</updated_version> 
     <limit>200000</limit> 
