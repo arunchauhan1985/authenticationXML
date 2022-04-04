@@ -206,7 +206,7 @@
   <application id="image2mathHMH"> 
     <application_name>Image to MATH Tool</application_name> 
     <application_expiry>30/04/2022</application_expiry> 
-    <app_start>false</app_start> 
+    <app_start>true</app_start> 
     <version>1.0.1</version> 
     <updated_version>1.0.1</updated_version> 
     <download_link></download_link> 
