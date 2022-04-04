@@ -43,7 +43,7 @@
   <application id="HCToolkit"> 
     <application_name>Harper Collins Toolkit</application_name> 
     <application_expiry>30/05/2022</application_expiry> 
-    <app_start>false</app_start> 
+    <app_start>true</app_start> 
     <version></version> 
     <updated_version></updated_version> 
     <download_link></download_link> 
