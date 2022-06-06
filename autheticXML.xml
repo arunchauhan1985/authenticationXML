@@ -325,7 +325,7 @@
   </application> 
   <application id="imagebasedpptool"> 
     <application_name>Text to Image Based PPT Conversion</application_name> 
-    <application_expiry>16/08/2021</application_expiry> 
+    <application_expiry>16/08/2022</application_expiry> 
     <app_start>false</app_start> 
     <version>1.0.1</version> 
     <updated_version>1.0.1</updated_version> 
@@ -341,7 +341,7 @@
   </application> 
   <application id="image2ppt"> 
     <application_name>Text to Image Based PPT Conversion</application_name> 
-    <application_expiry>16/08/2021</application_expiry> 
+    <application_expiry>16/08/2022</application_expiry> 
     <app_start>false</app_start> 
     <version>1.0.1</version> 
     <updated_version>1.0.1</updated_version> 
