@@ -460,7 +460,7 @@
   <application id="QCMS"> 
     <application_name>QCMS</application_name> 
     <application_expiry>25/08/2022</application_expiry> 
-    <app_start>true</app_start> 
+    <app_start>false</app_start> 
     <version>1.0.0</version> 
     <updated_version>1.0.0</updated_version> 
     <limit>200000</limit> 
@@ -478,7 +478,7 @@
   <application id="PlatformCompare"> 
     <application_name>Platform Compare</application_name> 
     <application_expiry>30/04/2022</application_expiry> 
-    <app_start>true</app_start> 
+    <app_start>false</app_start> 
     <version>1.0.0</version> 
     <updated_version>1.0.0</updated_version> 
     <limit>200000</limit> 
@@ -496,7 +496,7 @@
   <application id="BookCompareKit"> 
     <application_name>BookCompareKit</application_name> 
     <application_expiry>25/11/2022</application_expiry> 
-    <app_start>true</app_start> 
+    <app_start>false</app_start> 
     <version>1.0.0</version> 
     <updated_version>1.0.0</updated_version> 
     <limit>200000</limit> 
