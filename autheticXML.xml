@@ -749,7 +749,7 @@
   </application>
   <application id="man_math"> 
     <application_name>Man Math</application_name> 
-    <application_expiry>30/09/2022</application_expiry> 
+    <application_expiry>30/11/2022</application_expiry> 
     <app_start>true</app_start> 
     <version>1.0.0</version> 
     <updated_version>1.0.0</updated_version> 
@@ -768,7 +768,7 @@
   </application>
   <application id="magicpdfaccess"> 
     <application_name>Magic PDF Remediation</application_name> 
-    <application_expiry>30/10/2022</application_expiry> 
+    <application_expiry>30/11/2022</application_expiry> 
     <app_start>true</app_start> 
     <version>1.0.0</version> 
     <updated_version>1.0.0</updated_version> 
