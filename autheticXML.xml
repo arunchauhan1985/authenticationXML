@@ -1,60 +1,902 @@
 <auth>
-<app_domain>MAGICSW|magicsw|Magicsw|MAGICEDTECH|MagicEdtech|GuruKripa-PC|AZDigitalConv01|AZDigitalConv03|AZDigitalConv02</app_domain>
-<application id="PearsonLRToolKit"><application_name>Pearson LR ToolKit</application_name><application_expiry>30/11/2019</application_expiry><app_start>false</app_start><version></version><updated_version></updated_version><download_link></download_link><valid_ips>10.11.2.226:true;</valid_ips><message_version display="false"></message_version></application>
-<application id="MagicBox_Auto_Ingestion"><application_name>MagicBox Auto Ingestion</application_name><application_expiry>30/11/2019</application_expiry><app_start>false</app_start><version></version><updated_version></updated_version><download_link></download_link><valid_ips>10.11.2.226:true;</valid_ips><message_version display="false"></message_version></application>
-<application id="MagicBox_Screenshot_Tool"><application_name>MagicBox ScreenShot Tool</application_name><application_expiry>30/11/2019</application_expiry><app_start>false</app_start><version></version><updated_version></updated_version><download_link></download_link><valid_ips>10.11.2.226:true;</valid_ips><message_version display="false"></message_version></application>
-<application id="BTToolkit"><application_name>BT Toolkit</application_name><application_expiry>26/10/2022</application_expiry><app_start>true</app_start><version></version><updated_version></updated_version><download_link></download_link><valid_ips>10.11.2.226:true;</valid_ips><message_version display="false"></message_version></application>
-<application id="HCToolkit"><application_name>Harper Collins Toolkit</application_name><application_expiry>30/07/2022</application_expiry><app_start>true</app_start><version></version><updated_version></updated_version><download_link></download_link><valid_ips>10.11.2.226:true;</valid_ips><message_version display="false"></message_version></application>
-<application id="ImageSolution2020"><application_name>BT Toolkit</application_name><application_expiry>30/10/2022</application_expiry><app_start>true</app_start><version></version><updated_version></updated_version><download_link></download_link><valid_ips>10.11.2.226:true;</valid_ips><message_version display="false"></message_version></application>
-<application id="ReadingOrder"><application_name>EPUB Reading Correction Tool</application_name><application_expiry>10/03/2021</application_expiry><app_start>false</app_start><version></version><updated_version></updated_version><download_link></download_link><valid_ips>10.11.2.226:true;</valid_ips><message_version display="false"></message_version></application>
-<application id="RPLUSReadingOrder"><application_name>EPUB Reading Correction Tool</application_name><application_expiry>30/05/2021</application_expiry><app_start>false</app_start><version></version><updated_version></updated_version><download_link></download_link><valid_ips>10.11.2.226:true;</valid_ips><message_version display="false"></message_version></application>
-<application id="ant_wiley"><application_name>Wiley Automation Solution</application_name><application_expiry>31/12/2019</application_expiry><app_start>false</app_start><version></version><updated_version></updated_version><download_link></download_link><valid_ips>10.11.2.226:true;</valid_ips><message_version display="false"></message_version><delete>PDFNet.dll;jpdf2html.jar;eBook_Conversion_Solution.exe;Image2MathML.exe;Image2MathML_Batch.bat;Image2MathML.bat;ImageZone.exe;Content Production Services Overview.docx;Content Production Services Overview_Rate_Cards.pdf;</delete></application>
-<application id="VNV"><application_name>PDF Validation and Verification</application_name><application_expiry>31/03/2021</application_expiry><app_start>false</app_start><version></version><updated_version></updated_version><download_link></download_link><valid_ips>10.11.2.226:true;</valid_ips><message_version display="false"></message_version></application>
-<application id="IMML"><application_name>Image to MathML and Latex</application_name><application_expiry>20/11/2018</application_expiry><app_start>false</app_start><version></version><updated_version></updated_version><download_link></download_link><valid_ips>10.11.2.226:true;</valid_ips><message_version display="false"></message_version></application>
-<application id="TPAL"><application_name>HMH: T-PAL Implementation</application_name><application_expiry>20/11/2019</application_expiry><app_start>false</app_start><version></version><updated_version></updated_version><download_link></download_link><valid_ips>10.11.2.226:true;</valid_ips><message_version display="false"></message_version></application>
-<application id="PDF2IMAGE"><application_name>PDF to Image</application_name><application_expiry>25/12/2018</application_expiry><app_start>false</app_start><version></version><updated_version></updated_version><download_link></download_link><valid_ips>10.11.2.226:true;</valid_ips><message_version display="false"></message_version></application>
-<application id="aenytoolkit"><application_name>AENY TOOLKIT</application_name><application_expiry>31/12/2019</application_expiry><app_start>false</app_start><version></version><updated_version></updated_version><download_link></download_link><valid_ips>10.11.2.226:true;</valid_ips><message_version display="false"></message_version><serverDetails><server>10.11.7.77</server><dbName>ebooks</dbName><uid>root</uid><passwd>root</passwd></serverDetails></application>
-<application id="a_ztoolkit"><application_name>A-Z TOOLKIT</application_name><application_expiry>31/12/2020</application_expiry><app_start>false</app_start><version></version><updated_version></updated_version><download_link></download_link><valid_ips>10.11.2.226:true;</valid_ips><message_version display="false"></message_version><serverDetails><server>10.11.7.77</server><dbName>ebooks</dbName><uid>root</uid><passwd>root</passwd></serverDetails></application>
-<application id="htmlviewer"><application_name>HTML Viewer</application_name><application_expiry>31/12/2019</application_expiry><app_start>false</app_start><version></version><updated_version></updated_version><download_link></download_link><valid_ips>10.11.2.226:true;</valid_ips><message_version display="false"></message_version></application>
-<application id="chromeviewer"><application_name>Chrome Viewer and Editor</application_name><application_expiry>31/12/2019</application_expiry><app_start>false</app_start><version></version><updated_version></updated_version><download_link></download_link><valid_ips>10.11.2.226:true;</valid_ips><message_version display="false"></message_version></application>
-<application id="k12convert"><application_name>K12 ePub Conversion Tool</application_name><application_expiry>31/12/2019</application_expiry><app_start>false</app_start><version></version><updated_version></updated_version><download_link></download_link><valid_ips>10.11.2.226:true;</valid_ips><message_version display="false"></message_version></application>
-<application id="image2math"><application_name>Image to MATH Tool</application_name><application_expiry>31/06/2019</application_expiry><app_start>false</app_start><version>1.0.1</version><updated_version>1.0.1</updated_version><download_link></download_link><valid_ips>10.11.2.226:true;</valid_ips><message_version display="false"></message_version></application>
-<application id="image2mathHMH"><application_name>Image to MATH Tool</application_name><application_expiry>25/02/2023</application_expiry><app_start>true</app_start><version>1.0.1</version><updated_version>1.0.1</updated_version><download_link></download_link><valid_ips>10.11.2.226:true;</valid_ips><message_version display="false"></message_version></application>
-<application id="RPLUS"><application_name>Reader Plus PDF Conversion Tool</application_name><application_expiry>30/01/2023</application_expiry><app_start>true</app_start><version>1.0.1</version><updated_version>1.0.1</updated_version><download_link></download_link><valid_ips>10.11.2.226:true;</valid_ips><message_version display="false"></message_version></application>
-<application id="json2smil"><application_name>JSON to SMIL Tool</application_name><application_expiry>31/08/2020</application_expiry><app_start>false</app_start><version>1.0.1</version><updated_version>1.0.1</updated_version><download_link></download_link><valid_ips>10.11.2.226:true;</valid_ips><message_version display="false"></message_version></application>
-<application id="pdfutility"><application_name>PDF Manipulation Utitliy</application_name><application_expiry>31/09/2019</application_expiry><app_start>false</app_start><version>1.0.3</version><updated_version>1.0.3</updated_version><download_link></download_link><valid_ips>10.11.2.226:true;</valid_ips><message_version display="false"></message_version></application>
-<application id="jpdconversion"><application_name>Ebook Deck</application_name><application_expiry>31/09/2019</application_expiry><app_start>false</app_start><version>1.0.3</version><updated_version>1.0.3</updated_version><download_link></download_link><valid_ips>10.11.2.226:true;</valid_ips><message_version display="false"></message_version><serverDetails><server>10.11.7.77</server><dbName>ebooks</dbName><uid>root</uid><passwd>root</passwd></serverDetails></application>
-<application id="hmhwebfontsmapper"><application_name>WebFontMapper</application_name><application_expiry>30/07/2020</application_expiry><app_start>false</app_start><version>1.0.1</version><updated_version>1.0.1</updated_version><download_link></download_link><valid_ips>10.11.2.226:true;</valid_ips><message_version display="false"></message_version><serverDetails><server>10.11.7.77</server><dbName>ebooks</dbName><uid>root</uid><passwd>root</passwd></serverDetails></application>
-<application id="pistoryboard"><application_name>Story Board Execution</application_name><application_expiry>30/07/2020</application_expiry><app_start>false</app_start><version>1.0.1</version><updated_version>1.0.1</updated_version><download_link></download_link><valid_ips>10.11.2.226:true;</valid_ips><message_version display="false"></message_version><serverDetails><server>10.11.7.77</server><dbName>none</dbName><uid>[magic], [demo]</uid><passwd>[magicsw], [magicsw]</passwd></serverDetails></application>
-<application id="dopbtsolution"><application_name>DOP EBOOK Conversion Solution</application_name><application_expiry>30/08/2021</application_expiry><app_start>false</app_start><version>1.0.1</version><updated_version>1.0.1</updated_version><download_link></download_link><valid_ips>10.11.2.226:true;</valid_ips><message_version display="false"></message_version><serverDetails><server>10.11.7.77</server><dbName>none</dbName><uid>[magic], [demo]</uid><passwd>[magicsw], [magicsw]</passwd></serverDetails></application>
-<application id="capstonesmilsplitter"><application_name>Capstone SMIL Splitter</application_name><application_expiry>30/08/2020</application_expiry><app_start>false</app_start><version>1.0.1</version><updated_version>1.0.1</updated_version><download_link></download_link><valid_ips>10.11.2.226:true;</valid_ips><message_version display="false"></message_version><serverDetails><server>10.11.7.77</server><dbName>none</dbName><uid>[magic], [demo]</uid><passwd>[magicsw], [magicsw]</passwd></serverDetails></application>
-<application id="imagebasedpptool"><application_name>Text to Image Based PPT Conversion</application_name><application_expiry>16/08/2022</application_expiry><app_start>false</app_start><version>1.0.1</version><updated_version>1.0.1</updated_version><download_link></download_link><valid_ips>10.11.2.226:true;</valid_ips><message_version display="false"></message_version><serverDetails><server>10.11.7.77</server><dbName>none</dbName><uid>[magic], [demo]</uid><passwd>[magicsw], [magicsw]</passwd></serverDetails></application>
-<application id="image2ppt"><application_name>Text to Image Based PPT Conversion</application_name><application_expiry>16/08/2022</application_expiry><app_start>false</app_start><version>1.0.1</version><updated_version>1.0.1</updated_version><download_link></download_link><valid_ips>10.11.2.226:true;</valid_ips><message_version display="false"></message_version><serverDetails><server>10.11.7.77</server><dbName>none</dbName><uid>[magic], [demo]</uid><passwd>[magicsw], [magicsw]</passwd></serverDetails></application>
-<application id="ItemRefDuplicacyRemoval"><application_name>ItemRef Duplicacy Removal</application_name><application_expiry>16/08/2021</application_expiry><app_start>false</app_start><version>1.0.1</version><updated_version>1.0.1</updated_version><limit>200000</limit><download_link></download_link><valid_ips>10.11.2.226:true;</valid_ips><message_version display="false"></message_version><serverDetails><server>10.11.7.77</server><dbName>none</dbName><uid>[magic], [demo]</uid><passwd>[magicsw], [magicsw]</passwd></serverDetails></application>
-<application id="lt_epub_suite"><application_name>EPUB Suite</application_name><application_expiry>30/09/2020</application_expiry><app_start>false</app_start><version>1.0.1</version><updated_version>1.0.1</updated_version><limit>200000</limit><download_link></download_link><valid_ips>10.11.2.226:true;</valid_ips><message_version display="false"></message_version><serverDetails><server>10.11.7.77</server><dbName>none</dbName><uid>[magic], [demo]</uid><passwd>[magicsw], [magicsw]</passwd></serverDetails></application>
-<application id="epub_utils"><application_name>EPUB Utils</application_name><application_expiry>30/12/2020</application_expiry><app_start>false</app_start><version>1.0.0</version><updated_version>1.0.0</updated_version><limit>200000</limit><download_link></download_link><valid_ips>10.11.2.226:true;</valid_ips><message_version display="false"></message_version><serverDetails><server>10.11.7.77</server><dbName>none</dbName><uid>[magic], [demo]</uid><passwd>[magicsw], [magicsw]</passwd></serverDetails></application>
-<application id="eduzoneUtils"><application_name>Eduzone Utils</application_name><application_expiry>30/12/2020</application_expiry><app_start>false</app_start><version>1.0.0</version><updated_version>1.0.0</updated_version><limit>200000</limit><download_link></download_link><valid_ips>10.11.2.226:true;</valid_ips><message_version display="false"></message_version><serverDetails><server>10.11.7.77</server><dbName>none</dbName><uid>[magic], [demo]</uid><passwd>[magicsw], [magicsw]</passwd></serverDetails></application>
-<application id="ligaturevalidator"><application_name>Ligature Validator</application_name><application_expiry>30/03/2021</application_expiry><app_start>false</app_start><version>1.0.0</version><updated_version>1.0.0</updated_version><limit>200000</limit><download_link></download_link><valid_ips>10.11.2.226:true;</valid_ips><message_version display="false"></message_version><serverDetails><server>10.11.7.77</server><dbName>none</dbName><uid>[magic], [demo]</uid><passwd>[magicsw], [magicsw]</passwd></serverDetails></application>
-<application id="accordionjsoncreator"><application_name>Accordion JSON Creator</application_name><application_expiry>30/03/2021</application_expiry><app_start>false</app_start><version>1.0.0</version><updated_version>1.0.0</updated_version><limit>200000</limit><download_link></download_link><valid_ips>10.11.2.226:true;</valid_ips><message_version display="false"></message_version><serverDetails><server>10.11.7.77</server><dbName>none</dbName><uid>[magic], [demo]</uid><passwd>[magicsw], [magicsw]</passwd></serverDetails></application>
-<application id="QCMS"><application_name>QCMS</application_name><application_expiry>25/08/2022</application_expiry><app_start>false</app_start><version>1.0.0</version><updated_version>1.0.0</updated_version><limit>200000</limit><download_link></download_link><valid_ips>10.11.2.226:true;</valid_ips><message_version display="false"></message_version><serverDetails><server>10.11.7.77</server><dbName>qcms</dbName><uid>[magic], [magicsw]</uid><passwd>[magicsw], [magicsw]</passwd><connection>Offline</connection></serverDetails></application>
-<application id="PlatformCompare"><application_name>Platform Compare</application_name><application_expiry>30/04/2022</application_expiry><app_start>false</app_start><version>1.0.0</version><updated_version>1.0.0</updated_version><limit>200000</limit><download_link></download_link><valid_ips>10.11.2.226:true;</valid_ips><message_version display="false"></message_version><serverDetails><server>10.11.7.77</server><dbName>qcms</dbName><uid>[magic], [magicsw]</uid><passwd>[magicsw], [magicsw]</passwd><connection>Offline</connection></serverDetails></application>
-<application id="BookCompareKit"><application_name>BookCompareKit</application_name><application_expiry>25/01/2023</application_expiry><app_start>true</app_start><version>1.0.0</version><updated_version>1.0.0</updated_version><limit>200000</limit><download_link></download_link><valid_ips>10.11.2.226:true;</valid_ips><message_version display="false"></message_version><serverDetails><server>10.11.7.77</server><dbName>BookCompareKit</dbName><uid>[magic], [magicsw]</uid><passwd>[magicsw], [magicsw]</passwd><connection>Offline</connection></serverDetails></application>
-<application id="ComicSmartPanelsApp"><application_name>ComicSmartPanelsApp</application_name><application_expiry>30/01/2023</application_expiry><app_start>false</app_start><version>1.0.0</version><updated_version>1.0.0</updated_version><limit>200000</limit><download_link></download_link><valid_ips>10.11.2.226:true;</valid_ips><message_version display="false"></message_version><serverDetails><server>10.11.7.77</server><dbName>ComicSmartPanelsApp</dbName><uid></uid><passwd></passwd><connection>Offline</connection></serverDetails></application>
-<application id="ComicSmartPanelsViewer"><application_name>ComicSmartPanelsViewer</application_name><application_expiry>30/01/2023</application_expiry><app_start>false</app_start><version>1.0.0</version><updated_version>1.0.0</updated_version><limit>200000</limit><download_link></download_link><valid_ips>10.11.2.226:true;</valid_ips><message_version display="false"></message_version><serverDetails><server>10.11.7.77</server><dbName>ComicSmartPanelsApp</dbName><uid></uid><passwd></passwd><connection>Offline</connection><Testing>Offline</Testing></serverDetails></application>
-<application id="COMCOCR"><application_name>COMCOCR</application_name><application_expiry>10/09/2021</application_expiry><usrauthlink>https://raw.githubusercontent.com/ManPradeep/BnT/main/authdocean.xml</usrauthlink><usroffauthlink>http://163.53.85.250/pauth/authdocean.xml</usroffauthlink><app_start>false</app_start><compallow>DigitalOcean</compallow><version>1.0.0</version><updated_version>1.0.0</updated_version><limit>200000</limit><download_link></download_link><valid_ips>10.11.2.226:true;</valid_ips><message_version display="false"></message_version><serverDetails><server>10.11.7.77</server><dbName>COMCOCR</dbName><uid></uid><passwd></passwd><connection>Offline</connection><Testing>Offline</Testing></serverDetails></application>
-<application id="VDOCEANOCR"><application_name>VDOCEANOCR</application_name><application_expiry>10/09/2021</application_expiry><app_start>false</app_start><compallow>DigitalOcean</compallow><usrauthlink>https://raw.githubusercontent.com/ManPradeep/BnT/main/authvdocean.xml</usrauthlink><usroffauthlink>http://163.53.85.250/pauth/authvdocean.xml</usroffauthlink><version>1.0.0</version><updated_version>1.0.0</updated_version><limit>200000</limit><download_link></download_link><valid_ips>10.11.2.226:true;</valid_ips><message_version display="false"></message_version><serverDetails><server>10.11.7.77</server><dbName>COMCOCR</dbName><uid></uid><passwd></passwd><connection>Offline</connection><Testing>Offline</Testing></serverDetails></application>
-<application id="VPROMOCR"><application_name>VPROMOCR</application_name><application_expiry>10/08/2021</application_expiry><app_start>false</app_start><compallow>VPROMPT</compallow><usrauthlink>https://raw.githubusercontent.com/ManPradeep/BnT/main/authvprompt.xml</usrauthlink><usroffauthlink>http://163.53.85.250/pauth/authvprompt.xml</usroffauthlink><version>1.0.0</version><updated_version>1.0.0</updated_version><limit>200000</limit><download_link></download_link><valid_ips>10.11.2.226:true;</valid_ips><message_version display="false"></message_version><serverDetails><server>10.11.7.77</server><dbName>VPROMOCR</dbName><uid></uid><passwd></passwd><connection>Offline</connection><Testing>Offline</Testing></serverDetails></application>
-<application id="EbookEditor"><application_name>EbookEditor</application_name><application_expiry>25/06/2021</application_expiry><app_start>false</app_start><version>1.0.0</version><updated_version>1.0.0</updated_version><limit>200000</limit><download_link></download_link><valid_ips>10.11.2.226:true;</valid_ips><message_version display="false"></message_version><serverDetails><server>10.11.7.77</server><dbName>EbookEditor</dbName><uid></uid><passwd></passwd><connection>Offline</connection><Testing>Offline</Testing></serverDetails></application>
-<application id="CBZAutoOCR"><application_name>CBZAutoOCR</application_name><application_expiry>25/06/2021</application_expiry><app_start>false</app_start><version>1.0.0</version><updated_version>1.0.0</updated_version><limit>200000</limit><download_link></download_link><valid_ips>10.11.2.226:true;</valid_ips><message_version display="false"></message_version><serverDetails><server>10.11.7.77</server><dbName>CBZAutoOCR</dbName><uid></uid><passwd></passwd><connection>Offline</connection><Testing>Offline</Testing></serverDetails></application>
-<application id="PanelSegregation"><application_name>PanelSegregation[akwpc!5396f]</application_name><application_expiry>30/08/2021</application_expiry><app_start>false</app_start><version>1.0.0</version><updated_version>1.0.0</updated_version><limit>200000</limit><download_link></download_link><valid_ips>10.11.2.226:true;</valid_ips><message_version display="false"></message_version><serverDetails><server>10.11.7.77</server><dbName>CBZAutoOCR</dbName><uid></uid><passwd></passwd><connection>Offline</connection><Testing>Offline</Testing></serverDetails></application>
-<application id="eFlow"><application_name>eFlow[akwpc!5396f]</application_name><application_expiry>30/06/2022</application_expiry><app_start>false</app_start><version>1.0.0</version><updated_version>1.0.0</updated_version><limit>200000</limit><download_link></download_link><valid_ips>10.11.2.226:true;</valid_ips><message_version display="false"></message_version><serverDetails><server>10.11.7.77</server><dbName>rauthor</dbName><uid></uid><passwd></passwd><connection>Offline</connection><Testing>Offline</Testing></serverDetails></application>
-<application id="SavaasUploader"><application_name>SavaasUploader</application_name><application_expiry>30/05/2022</application_expiry><app_start>true</app_start><version>1.0.0</version><updated_version>1.0.0</updated_version><limit>200000</limit><download_link></download_link><valid_ips>10.11.2.226:true;</valid_ips><message_version display="false"></message_version><serverDetails><server>10.11.7.77</server><dbName>rauthor</dbName><uid></uid><passwd></passwd><connection>Offline</connection><Testing>Offline</Testing></serverDetails></application>
-<application id="BronteEpubAppValidator"><application_name>BronteEpubAppValidator</application_name><application_expiry>30/12/2022</application_expiry><app_start>true</app_start><version>1.0.0</version><updated_version>1.0.0</updated_version><limit>200000</limit><download_link></download_link><valid_ips>10.11.2.226:true;</valid_ips><message_version display="false"></message_version><serverDetails><server>10.11.7.77</server><dbName>rauthor</dbName><uid></uid><passwd></passwd><connection>Offline</connection><Testing>Offline</Testing></serverDetails></application>
-<application id="mac_resourcefileslist"><application_name>mac resourcefileslist</application_name><application_expiry>30/12/2023</application_expiry><app_start>true</app_start><version>1.0.0</version><updated_version>1.0.0</updated_version><limit>200000</limit><download_link></download_link><valid_ips>10.11.2.226:true;</valid_ips><message_version display="false"></message_version><serverDetails><server>10.11.7.77</server><dbName>rauthor</dbName><uid></uid><passwd></passwd><connection>Offline</connection><Testing>Offline</Testing></serverDetails></application>
-<application id="man_math"><application_name>Man Math</application_name><application_expiry>30/11/2022</application_expiry><app_start>true</app_start><version>1.0.0</version><updated_version>1.0.0</updated_version><limit>200000</limit><download_link></download_link><valid_ips>10.11.2.226:true;</valid_ips><message_version display="false"></message_version><serverDetails><server>10.11.7.77</server><dbName>rauthor</dbName><uid></uid><passwd></passwd><connection>Offline</connection><Testing>Offline</Testing></serverDetails></application>
-<application id="magicpdfaccess"><application_name>Magic PDF Remediation</application_name><application_expiry>30/01/2023</application_expiry><app_start>true</app_start><version>1.0.0</version><updated_version>1.0.0</updated_version><limit>200000</limit><download_link></download_link><valid_ips>10.11.2.226:true;</valid_ips><message_version display="false"></message_version><serverDetails><server>10.11.7.77</server><dbName>maccess</dbName><uid></uid><passwd></passwd><connection>Offline</connection><Testing>Offline</Testing></serverDetails></application>
-<application id="klett"><application_name>Klett Automation</application_name><application_expiry>30/01/2023</application_expiry><app_start>true</app_start><version>1.0.0</version><updated_version>1.0.0</updated_version><limit>200000</limit><download_link></download_link><valid_ips>10.11.2.226:true;</valid_ips><message_version display="false"></message_version><serverDetails><server>10.11.7.77</server><dbName>maccess</dbName><uid></uid><passwd></passwd><connection>Offline</connection><Testing>Offline</Testing></serverDetails></application>
-<application id="savaasautomation"><application_name>Savaas Automation</application_name><application_expiry>30/12/2022</application_expiry><app_start>true</app_start><version>1.0.0</version><updated_version>1.0.0</updated_version><limit>200000</limit><download_link></download_link><valid_ips>10.11.2.226:true;</valid_ips><message_version display="false"></message_version><serverDetails><server>10.11.7.77</server><dbName>maccess</dbName><uid></uid><passwd></passwd><connection>Offline</connection><Testing>Offline</Testing></serverDetails></application>
-<application id="hhmiautomation"><application_name>HHMI Automation</application_name><application_expiry>30/12/2022</application_expiry><app_start>true</app_start><version>1.0.0</version><updated_version>1.0.0</updated_version><limit>200000</limit><download_link></download_link><valid_ips>10.11.2.226:true;</valid_ips><message_version display="false"></message_version><serverDetails><server>10.11.7.77</server><dbName>maccess</dbName><uid></uid><passwd></passwd><connection>Offline</connection><Testing>Offline</Testing></serverDetails></application>
-<application id="mstyleqbs"><application_name>QBS Word to Indesign</application_name><application_expiry>30/12/2022</application_expiry><app_start>true</app_start><version>1.0.0</version><updated_version>1.0.0</updated_version><limit>200000</limit><download_link></download_link><valid_ips>10.11.2.226:true;</valid_ips><message_version display="false"></message_version><serverDetails><server>10.11.7.77</server><dbName>maccess</dbName><uid></uid><passwd></passwd><connection>Offline</connection><Testing>Offline</Testing></serverDetails></application>
-<application id="mstyle"><application_name>mStyle</application_name><application_expiry>30/12/2022</application_expiry><app_start>true</app_start><version>1.0.0</version><updated_version>1.0.0</updated_version><limit>200000</limit><download_link></download_link><valid_ips>10.11.2.226:true;</valid_ips><message_version display="false"></message_version><serverDetails><server>10.11.7.77</server><dbName>maccess</dbName><uid></uid><passwd></passwd><connection>Offline</connection><Testing>Offline</Testing></serverDetails></application></auth>
+  <app_domain>MAGICSW|magicsw|Magicsw|MAGICEDTECH|MagicEdtech|GuruKripa-PC|AZDigitalConv01|AZDigitalConv03|AZDigitalConv02</app_domain>
+  <application id="PearsonLRToolKit">
+    <application_name>Pearson LR ToolKit</application_name>
+    <application_expiry>30/11/2019</application_expiry>
+    <app_start>false</app_start>
+    <version></version>
+    <updated_version></updated_version>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+  </application>
+  <application id="MagicBox_Auto_Ingestion">
+    <application_name>MagicBox Auto Ingestion</application_name>
+    <application_expiry>30/11/2019</application_expiry>
+    <app_start>false</app_start>
+    <version></version>
+    <updated_version></updated_version>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+  </application>
+  <application id="MagicBox_Screenshot_Tool">
+    <application_name>MagicBox ScreenShot Tool</application_name>
+    <application_expiry>30/11/2019</application_expiry>
+    <app_start>false</app_start>
+    <version></version>
+    <updated_version></updated_version>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+  </application>
+  <application id="BTToolkit">
+    <application_name>BT Toolkit</application_name>
+    <application_expiry>26/10/2022</application_expiry>
+    <app_start>true</app_start>
+    <version></version>
+    <updated_version></updated_version>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+  </application>
+  <application id="HCToolkit">
+    <application_name>Harper Collins Toolkit</application_name>
+    <application_expiry>30/07/2022</application_expiry>
+    <app_start>true</app_start>
+    <version></version>
+    <updated_version></updated_version>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+  </application>
+  <application id="ImageSolution2020">
+    <application_name>BT Toolkit</application_name>
+    <application_expiry>30/10/2022</application_expiry>
+    <app_start>true</app_start>
+    <version></version>
+    <updated_version></updated_version>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+  </application>
+  <application id="ReadingOrder">
+    <application_name>EPUB Reading Correction Tool</application_name>
+    <application_expiry>10/03/2021</application_expiry>
+    <app_start>false</app_start>
+    <version></version>
+    <updated_version></updated_version>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+  </application>
+  <application id="RPLUSReadingOrder">
+    <application_name>EPUB Reading Correction Tool</application_name>
+    <application_expiry>30/05/2021</application_expiry>
+    <app_start>false</app_start>
+    <version></version>
+    <updated_version></updated_version>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+  </application>
+  <application id="ant_wiley">
+    <application_name>Wiley Automation Solution</application_name>
+    <application_expiry>31/12/2019</application_expiry>
+    <app_start>false</app_start>
+    <version></version>
+    <updated_version></updated_version>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+    <delete>PDFNet.dll;jpdf2html.jar;eBook_Conversion_Solution.exe;Image2MathML.exe;Image2MathML_Batch.bat;Image2MathML.bat;ImageZone.exe;Content Production Services Overview.docx;Content Production Services Overview_Rate_Cards.pdf;</delete>
+  </application>
+  <application id="VNV">
+    <application_name>PDF Validation and Verification</application_name>
+    <application_expiry>31/03/2021</application_expiry>
+    <app_start>false</app_start>
+    <version></version>
+    <updated_version></updated_version>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+  </application>
+  <application id="IMML">
+    <application_name>Image to MathML and Latex</application_name>
+    <application_expiry>20/11/2018</application_expiry>
+    <app_start>false</app_start>
+    <version></version>
+    <updated_version></updated_version>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+  </application>
+  <application id="TPAL">
+    <application_name>HMH: T-PAL Implementation</application_name>
+    <application_expiry>20/11/2019</application_expiry>
+    <app_start>false</app_start>
+    <version></version>
+    <updated_version></updated_version>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+  </application>
+  <application id="PDF2IMAGE">
+    <application_name>PDF to Image</application_name>
+    <application_expiry>25/12/2018</application_expiry>
+    <app_start>false</app_start>
+    <version></version>
+    <updated_version></updated_version>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+  </application>
+  <application id="aenytoolkit">
+    <application_name>AENY TOOLKIT</application_name>
+    <application_expiry>31/12/2019</application_expiry>
+    <app_start>false</app_start>
+    <version></version>
+    <updated_version></updated_version>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+    <serverDetails>
+      <server>10.11.7.77</server>
+      <dbName>ebooks</dbName>
+      <uid>root</uid>
+      <passwd>root</passwd>
+    </serverDetails>
+  </application>
+  <application id="a_ztoolkit">
+    <application_name>A-Z TOOLKIT</application_name>
+    <application_expiry>31/12/2020</application_expiry>
+    <app_start>false</app_start>
+    <version></version>
+    <updated_version></updated_version>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+    <serverDetails>
+      <server>10.11.7.77</server>
+      <dbName>ebooks</dbName>
+      <uid>root</uid>
+      <passwd>root</passwd>
+    </serverDetails>
+  </application>
+  <application id="htmlviewer">
+    <application_name>HTML Viewer</application_name>
+    <application_expiry>31/12/2019</application_expiry>
+    <app_start>false</app_start>
+    <version></version>
+    <updated_version></updated_version>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+  </application>
+  <application id="chromeviewer">
+    <application_name>Chrome Viewer and Editor</application_name>
+    <application_expiry>31/12/2019</application_expiry>
+    <app_start>false</app_start>
+    <version></version>
+    <updated_version></updated_version>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+  </application>
+  <application id="k12convert">
+    <application_name>K12 ePub Conversion Tool</application_name>
+    <application_expiry>31/12/2019</application_expiry>
+    <app_start>false</app_start>
+    <version></version>
+    <updated_version></updated_version>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+  </application>
+  <application id="image2math">
+    <application_name>Image to MATH Tool</application_name>
+    <application_expiry>31/06/2019</application_expiry>
+    <app_start>false</app_start>
+    <version>1.0.1</version>
+    <updated_version>1.0.1</updated_version>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+  </application>
+  <application id="image2mathHMH">
+    <application_name>Image to MATH Tool</application_name>
+    <application_expiry>25/02/2023</application_expiry>
+    <app_start>true</app_start>
+    <version>1.0.1</version>
+    <updated_version>1.0.1</updated_version>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+  </application>
+  <application id="RPLUS">
+    <application_name>Reader Plus PDF Conversion Tool</application_name>
+    <application_expiry>30/01/2023</application_expiry>
+    <app_start>true</app_start>
+    <version>1.0.1</version>
+    <updated_version>1.0.1</updated_version>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+  </application>
+  <application id="json2smil">
+    <application_name>JSON to SMIL Tool</application_name>
+    <application_expiry>31/08/2020</application_expiry>
+    <app_start>false</app_start>
+    <version>1.0.1</version>
+    <updated_version>1.0.1</updated_version>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+  </application>
+  <application id="pdfutility">
+    <application_name>PDF Manipulation Utitliy</application_name>
+    <application_expiry>31/09/2019</application_expiry>
+    <app_start>false</app_start>
+    <version>1.0.3</version>
+    <updated_version>1.0.3</updated_version>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+  </application>
+  <application id="jpdconversion">
+    <application_name>Ebook Deck</application_name>
+    <application_expiry>31/09/2019</application_expiry>
+    <app_start>false</app_start>
+    <version>1.0.3</version>
+    <updated_version>1.0.3</updated_version>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+    <serverDetails>
+      <server>10.11.7.77</server>
+      <dbName>ebooks</dbName>
+      <uid>root</uid>
+      <passwd>root</passwd>
+    </serverDetails>
+  </application>
+  <application id="hmhwebfontsmapper">
+    <application_name>WebFontMapper</application_name>
+    <application_expiry>30/07/2020</application_expiry>
+    <app_start>false</app_start>
+    <version>1.0.1</version>
+    <updated_version>1.0.1</updated_version>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+    <serverDetails>
+      <server>10.11.7.77</server>
+      <dbName>ebooks</dbName>
+      <uid>root</uid>
+      <passwd>root</passwd>
+    </serverDetails>
+  </application>
+  <application id="pistoryboard">
+    <application_name>Story Board Execution</application_name>
+    <application_expiry>30/07/2020</application_expiry>
+    <app_start>false</app_start>
+    <version>1.0.1</version>
+    <updated_version>1.0.1</updated_version>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+    <serverDetails>
+      <server>10.11.7.77</server>
+      <dbName>none</dbName>
+      <uid>[magic], [demo]</uid>
+      <passwd>[magicsw], [magicsw]</passwd>
+    </serverDetails>
+  </application>
+  <application id="dopbtsolution">
+    <application_name>DOP EBOOK Conversion Solution</application_name>
+    <application_expiry>30/08/2021</application_expiry>
+    <app_start>false</app_start>
+    <version>1.0.1</version>
+    <updated_version>1.0.1</updated_version>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+    <serverDetails>
+      <server>10.11.7.77</server>
+      <dbName>none</dbName>
+      <uid>[magic], [demo]</uid>
+      <passwd>[magicsw], [magicsw]</passwd>
+    </serverDetails>
+  </application>
+  <application id="capstonesmilsplitter">
+    <application_name>Capstone SMIL Splitter</application_name>
+    <application_expiry>30/08/2020</application_expiry>
+    <app_start>false</app_start>
+    <version>1.0.1</version>
+    <updated_version>1.0.1</updated_version>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+    <serverDetails>
+      <server>10.11.7.77</server>
+      <dbName>none</dbName>
+      <uid>[magic], [demo]</uid>
+      <passwd>[magicsw], [magicsw]</passwd>
+    </serverDetails>
+  </application>
+  <application id="imagebasedpptool">
+    <application_name>Text to Image Based PPT Conversion</application_name>
+    <application_expiry>16/08/2022</application_expiry>
+    <app_start>false</app_start>
+    <version>1.0.1</version>
+    <updated_version>1.0.1</updated_version>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+    <serverDetails>
+      <server>10.11.7.77</server>
+      <dbName>none</dbName>
+      <uid>[magic], [demo]</uid>
+      <passwd>[magicsw], [magicsw]</passwd>
+    </serverDetails>
+  </application>
+  <application id="image2ppt">
+    <application_name>Text to Image Based PPT Conversion</application_name>
+    <application_expiry>16/08/2022</application_expiry>
+    <app_start>false</app_start>
+    <version>1.0.1</version>
+    <updated_version>1.0.1</updated_version>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+    <serverDetails>
+      <server>10.11.7.77</server>
+      <dbName>none</dbName>
+      <uid>[magic], [demo]</uid>
+      <passwd>[magicsw], [magicsw]</passwd>
+    </serverDetails>
+  </application>
+  <application id="ItemRefDuplicacyRemoval">
+    <application_name>ItemRef Duplicacy Removal</application_name>
+    <application_expiry>16/08/2021</application_expiry>
+    <app_start>false</app_start>
+    <version>1.0.1</version>
+    <updated_version>1.0.1</updated_version>
+    <limit>200000</limit>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+    <serverDetails>
+      <server>10.11.7.77</server>
+      <dbName>none</dbName>
+      <uid>[magic], [demo]</uid>
+      <passwd>[magicsw], [magicsw]</passwd>
+    </serverDetails>
+  </application>
+  <application id="lt_epub_suite">
+    <application_name>EPUB Suite</application_name>
+    <application_expiry>30/09/2020</application_expiry>
+    <app_start>false</app_start>
+    <version>1.0.1</version>
+    <updated_version>1.0.1</updated_version>
+    <limit>200000</limit>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+    <serverDetails>
+      <server>10.11.7.77</server>
+      <dbName>none</dbName>
+      <uid>[magic], [demo]</uid>
+      <passwd>[magicsw], [magicsw]</passwd>
+    </serverDetails>
+  </application>
+  <application id="epub_utils">
+    <application_name>EPUB Utils</application_name>
+    <application_expiry>30/12/2020</application_expiry>
+    <app_start>false</app_start>
+    <version>1.0.0</version>
+    <updated_version>1.0.0</updated_version>
+    <limit>200000</limit>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+    <serverDetails>
+      <server>10.11.7.77</server>
+      <dbName>none</dbName>
+      <uid>[magic], [demo]</uid>
+      <passwd>[magicsw], [magicsw]</passwd>
+    </serverDetails>
+  </application>
+  <application id="eduzoneUtils">
+    <application_name>Eduzone Utils</application_name>
+    <application_expiry>30/12/2020</application_expiry>
+    <app_start>false</app_start>
+    <version>1.0.0</version>
+    <updated_version>1.0.0</updated_version>
+    <limit>200000</limit>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+    <serverDetails>
+      <server>10.11.7.77</server>
+      <dbName>none</dbName>
+      <uid>[magic], [demo]</uid>
+      <passwd>[magicsw], [magicsw]</passwd>
+    </serverDetails>
+  </application>
+  <application id="ligaturevalidator">
+    <application_name>Ligature Validator</application_name>
+    <application_expiry>30/03/2021</application_expiry>
+    <app_start>false</app_start>
+    <version>1.0.0</version>
+    <updated_version>1.0.0</updated_version>
+    <limit>200000</limit>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+    <serverDetails>
+      <server>10.11.7.77</server>
+      <dbName>none</dbName>
+      <uid>[magic], [demo]</uid>
+      <passwd>[magicsw], [magicsw]</passwd>
+    </serverDetails>
+  </application>
+  <application id="accordionjsoncreator">
+    <application_name>Accordion JSON Creator</application_name>
+    <application_expiry>30/03/2021</application_expiry>
+    <app_start>false</app_start>
+    <version>1.0.0</version>
+    <updated_version>1.0.0</updated_version>
+    <limit>200000</limit>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+    <serverDetails>
+      <server>10.11.7.77</server>
+      <dbName>none</dbName>
+      <uid>[magic], [demo]</uid>
+      <passwd>[magicsw], [magicsw]</passwd>
+    </serverDetails>
+  </application>
+  <application id="QCMS">
+    <application_name>QCMS</application_name>
+    <application_expiry>25/08/2022</application_expiry>
+    <app_start>false</app_start>
+    <version>1.0.0</version>
+    <updated_version>1.0.0</updated_version>
+    <limit>200000</limit>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+    <serverDetails>
+      <server>10.11.7.77</server>
+      <dbName>qcms</dbName>
+      <uid>[magic], [magicsw]</uid>
+      <passwd>[magicsw], [magicsw]</passwd>
+      <connection>Offline</connection>
+    </serverDetails>
+  </application>
+  <application id="PlatformCompare">
+    <application_name>Platform Compare</application_name>
+    <application_expiry>30/04/2022</application_expiry>
+    <app_start>false</app_start>
+    <version>1.0.0</version>
+    <updated_version>1.0.0</updated_version>
+    <limit>200000</limit>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+    <serverDetails>
+      <server>10.11.7.77</server>
+      <dbName>qcms</dbName>
+      <uid>[magic], [magicsw]</uid>
+      <passwd>[magicsw], [magicsw]</passwd>
+      <connection>Offline</connection>
+    </serverDetails>
+  </application>
+  <application id="BookCompareKit">
+    <application_name>BookCompareKit</application_name>
+    <application_expiry>25/01/2023</application_expiry>
+    <app_start>true</app_start>
+    <version>1.0.0</version>
+    <updated_version>1.0.0</updated_version>
+    <limit>200000</limit>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+    <serverDetails>
+      <server>10.11.7.77</server>
+      <dbName>BookCompareKit</dbName>
+      <uid>[magic], [magicsw]</uid>
+      <passwd>[magicsw], [magicsw]</passwd>
+      <connection>Offline</connection>
+    </serverDetails>
+  </application>
+  <application id="ComicSmartPanelsApp">
+    <application_name>ComicSmartPanelsApp</application_name>
+    <application_expiry>30/01/2023</application_expiry>
+    <app_start>false</app_start>
+    <version>1.0.0</version>
+    <updated_version>1.0.0</updated_version>
+    <limit>200000</limit>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+    <serverDetails>
+      <server>10.11.7.77</server>
+      <dbName>ComicSmartPanelsApp</dbName>
+      <uid></uid>
+      <passwd></passwd>
+      <connection>Offline</connection>
+    </serverDetails>
+  </application>
+  <application id="ComicSmartPanelsViewer">
+    <application_name>ComicSmartPanelsViewer</application_name>
+    <application_expiry>30/01/2023</application_expiry>
+    <app_start>false</app_start>
+    <version>1.0.0</version>
+    <updated_version>1.0.0</updated_version>
+    <limit>200000</limit>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+    <serverDetails>
+      <server>10.11.7.77</server>
+      <dbName>ComicSmartPanelsApp</dbName>
+      <uid></uid>
+      <passwd></passwd>
+      <connection>Offline</connection>
+      <Testing>Offline</Testing>
+    </serverDetails>
+  </application>
+  <application id="COMCOCR">
+    <application_name>COMCOCR</application_name>
+    <application_expiry>10/09/2021</application_expiry>
+    <usrauthlink>https://raw.githubusercontent.com/ManPradeep/BnT/main/authdocean.xml</usrauthlink>
+    <usroffauthlink>http://163.53.85.250/pauth/authdocean.xml</usroffauthlink>
+    <app_start>false</app_start>
+    <compallow>DigitalOcean</compallow>
+    <version>1.0.0</version>
+    <updated_version>1.0.0</updated_version>
+    <limit>200000</limit>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+    <serverDetails>
+      <server>10.11.7.77</server>
+      <dbName>COMCOCR</dbName>
+      <uid></uid>
+      <passwd></passwd>
+      <connection>Offline</connection>
+      <Testing>Offline</Testing>
+    </serverDetails>
+  </application>
+  <application id="VDOCEANOCR">
+    <application_name>VDOCEANOCR</application_name>
+    <application_expiry>10/09/2021</application_expiry>
+    <app_start>false</app_start>
+    <compallow>DigitalOcean</compallow>
+    <usrauthlink>https://raw.githubusercontent.com/ManPradeep/BnT/main/authvdocean.xml</usrauthlink>
+    <usroffauthlink>http://163.53.85.250/pauth/authvdocean.xml</usroffauthlink>
+    <version>1.0.0</version>
+    <updated_version>1.0.0</updated_version>
+    <limit>200000</limit>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+    <serverDetails>
+      <server>10.11.7.77</server>
+      <dbName>COMCOCR</dbName>
+      <uid></uid>
+      <passwd></passwd>
+      <connection>Offline</connection>
+      <Testing>Offline</Testing>
+    </serverDetails>
+  </application>
+  <application id="VPROMOCR">
+    <application_name>VPROMOCR</application_name>
+    <application_expiry>10/08/2021</application_expiry>
+    <app_start>false</app_start>
+    <compallow>VPROMPT</compallow>
+    <usrauthlink>https://raw.githubusercontent.com/ManPradeep/BnT/main/authvprompt.xml</usrauthlink>
+    <usroffauthlink>http://163.53.85.250/pauth/authvprompt.xml</usroffauthlink>
+    <version>1.0.0</version>
+    <updated_version>1.0.0</updated_version>
+    <limit>200000</limit>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+    <serverDetails>
+      <server>10.11.7.77</server>
+      <dbName>VPROMOCR</dbName>
+      <uid></uid>
+      <passwd></passwd>
+      <connection>Offline</connection>
+      <Testing>Offline</Testing>
+    </serverDetails>
+  </application>
+  <application id="EbookEditor">
+    <application_name>EbookEditor</application_name>
+    <application_expiry>25/06/2021</application_expiry>
+    <app_start>false</app_start>
+    <version>1.0.0</version>
+    <updated_version>1.0.0</updated_version>
+    <limit>200000</limit>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+    <serverDetails>
+      <server>10.11.7.77</server>
+      <dbName>EbookEditor</dbName>
+      <uid></uid>
+      <passwd></passwd>
+      <connection>Offline</connection>
+      <Testing>Offline</Testing>
+    </serverDetails>
+  </application>
+  <application id="CBZAutoOCR">
+    <application_name>CBZAutoOCR</application_name>
+    <application_expiry>25/06/2021</application_expiry>
+    <app_start>false</app_start>
+    <version>1.0.0</version>
+    <updated_version>1.0.0</updated_version>
+    <limit>200000</limit>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+    <serverDetails>
+      <server>10.11.7.77</server>
+      <dbName>CBZAutoOCR</dbName>
+      <uid></uid>
+      <passwd></passwd>
+      <connection>Offline</connection>
+      <Testing>Offline</Testing>
+    </serverDetails>
+  </application>
+  <application id="PanelSegregation">
+    <application_name>PanelSegregation[akwpc!5396f]</application_name>
+    <application_expiry>30/08/2021</application_expiry>
+    <app_start>false</app_start>
+    <version>1.0.0</version>
+    <updated_version>1.0.0</updated_version>
+    <limit>200000</limit>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+    <serverDetails>
+      <server>10.11.7.77</server>
+      <dbName>CBZAutoOCR</dbName>
+      <uid></uid>
+      <passwd></passwd>
+      <connection>Offline</connection>
+      <Testing>Offline</Testing>
+    </serverDetails>
+  </application>
+  <application id="eFlow">
+    <application_name>eFlow[akwpc!5396f]</application_name>
+    <application_expiry>30/06/2022</application_expiry>
+    <app_start>false</app_start>
+    <version>1.0.0</version>
+    <updated_version>1.0.0</updated_version>
+    <limit>200000</limit>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+    <serverDetails>
+      <server>10.11.7.77</server>
+      <dbName>rauthor</dbName>
+      <uid></uid>
+      <passwd></passwd>
+      <connection>Offline</connection>
+      <Testing>Offline</Testing>
+    </serverDetails>
+  </application>
+  <application id="SavaasUploader">
+    <application_name>SavaasUploader</application_name>
+    <application_expiry>30/05/2022</application_expiry>
+    <app_start>true</app_start>
+    <version>1.0.0</version>
+    <updated_version>1.0.0</updated_version>
+    <limit>200000</limit>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+    <serverDetails>
+      <server>10.11.7.77</server>
+      <dbName>rauthor</dbName>
+      <uid></uid>
+      <passwd></passwd>
+      <connection>Offline</connection>
+      <Testing>Offline</Testing>
+    </serverDetails>
+  </application>
+  <application id="BronteEpubAppValidator">
+    <application_name>BronteEpubAppValidator</application_name>
+    <application_expiry>30/12/2022</application_expiry>
+    <app_start>true</app_start>
+    <version>1.0.0</version>
+    <updated_version>1.0.0</updated_version>
+    <limit>200000</limit>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+    <serverDetails>
+      <server>10.11.7.77</server>
+      <dbName>rauthor</dbName>
+      <uid></uid>
+      <passwd></passwd>
+      <connection>Offline</connection>
+      <Testing>Offline</Testing>
+    </serverDetails>
+  </application>
+  <application id="mac_resourcefileslist">
+    <application_name>mac resourcefileslist</application_name>
+    <application_expiry>30/12/2023</application_expiry>
+    <app_start>true</app_start>
+    <version>1.0.0</version>
+    <updated_version>1.0.0</updated_version>
+    <limit>200000</limit>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+    <serverDetails>
+      <server>10.11.7.77</server>
+      <dbName>rauthor</dbName>
+      <uid></uid>
+      <passwd></passwd>
+      <connection>Offline</connection>
+      <Testing>Offline</Testing>
+    </serverDetails>
+  </application>
+  <application id="man_math">
+    <application_name>Man Math</application_name>
+    <application_expiry>30/11/2022</application_expiry>
+    <app_start>true</app_start>
+    <version>1.0.0</version>
+    <updated_version>1.0.0</updated_version>
+    <limit>200000</limit>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+    <serverDetails>
+      <server>10.11.7.77</server>
+      <dbName>rauthor</dbName>
+      <uid></uid>
+      <passwd></passwd>
+      <connection>Offline</connection>
+      <Testing>Offline</Testing>
+    </serverDetails>
+  </application>
+  <application id="magicpdfaccess">
+    <application_name>Magic PDF Remediation</application_name>
+    <application_expiry>30/01/2023</application_expiry>
+    <app_start>true</app_start>
+    <version>1.0.0</version>
+    <updated_version>1.0.0</updated_version>
+    <limit>200000</limit>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+    <serverDetails>
+      <server>10.11.7.77</server>
+      <dbName>maccess</dbName>
+      <uid></uid>
+      <passwd></passwd>
+      <connection>Offline</connection>
+      <Testing>Offline</Testing>
+    </serverDetails>
+  </application>
+  <application id="klett">
+    <application_name>Klett Automation</application_name>
+    <application_expiry>30/01/2023</application_expiry>
+    <app_start>true</app_start>
+    <version>1.0.0</version>
+    <updated_version>1.0.0</updated_version>
+    <limit>200000</limit>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+    <serverDetails>
+      <server>10.11.7.77</server>
+      <dbName>maccess</dbName>
+      <uid></uid>
+      <passwd></passwd>
+      <connection>Offline</connection>
+      <Testing>Offline</Testing>
+    </serverDetails>
+  </application>
+  <application id="savaasautomation">
+    <application_name>Savaas Automation</application_name>
+    <application_expiry>30/12/2022</application_expiry>
+    <app_start>true</app_start>
+    <version>1.0.0</version>
+    <updated_version>1.0.0</updated_version>
+    <limit>200000</limit>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+    <serverDetails>
+      <server>10.11.7.77</server>
+      <dbName>maccess</dbName>
+      <uid></uid>
+      <passwd></passwd>
+      <connection>Offline</connection>
+      <Testing>Offline</Testing>
+    </serverDetails>
+  </application>
+  <application id="hhmiautomation">
+    <application_name>HHMI Automation</application_name>
+    <application_expiry>30/12/2022</application_expiry>
+    <app_start>true</app_start>
+    <version>1.0.0</version>
+    <updated_version>1.0.0</updated_version>
+    <limit>200000</limit>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+    <serverDetails>
+      <server>10.11.7.77</server>
+      <dbName>maccess</dbName>
+      <uid></uid>
+      <passwd></passwd>
+      <connection>Offline</connection>
+      <Testing>Offline</Testing>
+    </serverDetails>
+  </application>
+  <application id="mstyleqbs">
+    <application_name>QBS Word to Indesign</application_name>
+    <application_expiry>30/12/2022</application_expiry>
+    <app_start>true</app_start>
+    <version>1.0.0</version>
+    <updated_version>1.0.0</updated_version>
+    <limit>200000</limit>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+    <serverDetails>
+      <server>10.11.7.77</server>
+      <dbName>maccess</dbName>
+      <uid></uid>
+      <passwd></passwd>
+      <connection>Offline</connection>
+      <Testing>Offline</Testing>
+    </serverDetails>
+  </application>
+  <application id="mstyle">
+    <application_name>mStyle</application_name>
+    <application_expiry>30/12/2022</application_expiry>
+    <app_start>true</app_start>
+    <version>1.0.0</version>
+    <updated_version>1.0.0</updated_version>
+    <limit>200000</limit>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+    <serverDetails>
+      <server>10.11.7.77</server>
+      <dbName>maccess</dbName>
+      <uid></uid>
+      <passwd></passwd>
+      <connection>Offline</connection>
+      <Testing>Offline</Testing>
+    </serverDetails>
+  </application>
+  <application id="pally">
+    <application_name>pally</application_name>
+    <application_expiry>30/02/2023</application_expiry>
+    <app_start>true</app_start>
+    <version>1.0.0</version>
+    <updated_version>1.0.0</updated_version>
+    <limit>200000</limit>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+    <serverDetails>
+      <server>10.11.7.77</server>
+      <dbName>qaccess</dbName>
+      <uid></uid>
+      <passwd></passwd>
+      <connection>Offline</connection>
+      <Testing>Offline</Testing>
+    </serverDetails>
+  </application>
+</auth>
