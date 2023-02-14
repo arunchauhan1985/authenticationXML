@@ -1,4 +1,9 @@
 <users id="comicsmartpanel">
+<user id="USRDEFLT">
+<name>DELT</name>
+<authID>DELT</authID>
+<active>true</active>
+</user>
 <user id="USR8C47BE3673F3">
 <name>Arun</name>
 <authID>8C47BE3673F3</authID>
