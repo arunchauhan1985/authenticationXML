@@ -937,4 +937,23 @@
       <Testing>Offline</Testing>
     </serverDetails>
   </application>
+  <application id="pea_widget_automation">
+    <application_name>Pearson Australia: Widget Automation</application_name>
+    <application_expiry>20/03/2023</application_expiry>
+    <app_start>true</app_start>
+    <version>1.0.0</version>
+    <updated_version>1.0.0</updated_version>
+    <limit>200000</limit>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+    <serverDetails>
+      <server>10.11.7.77</server>
+      <dbName>qaccess</dbName>
+      <uid></uid>
+      <passwd></passwd>
+      <connection>Offline</connection>
+      <Testing>Offline</Testing>
+    </serverDetails>
+  </application>
 </auth>
