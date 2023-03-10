@@ -768,7 +768,7 @@
   </application>
   <application id="magicpdfaccess">
     <application_name>Magic PDF Remediation</application_name>
-    <application_expiry>25/02/2023</application_expiry>
+    <application_expiry>25/03/2023</application_expiry>
     <app_start>true</app_start>
     <version>1.0.0</version>
     <updated_version>1.0.0</updated_version>
@@ -901,7 +901,7 @@
   </application>
   <application id="pally">
     <application_name>pally</application_name>
-    <application_expiry>20/02/2023</application_expiry>
+    <application_expiry>20/03/2023</application_expiry>
     <app_start>true</app_start>
     <version>1.0.0</version>
     <updated_version>1.0.0</updated_version>
