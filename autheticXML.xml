@@ -205,7 +205,7 @@
   </application>
   <application id="image2mathHMH">
     <application_name>Image to MATH Tool</application_name>
-    <application_expiry>25/03/2023</application_expiry>
+    <application_expiry>25/04/2023</application_expiry>
     <app_start>true</app_start>
     <version>1.0.1</version>
     <updated_version>1.0.1</updated_version>
