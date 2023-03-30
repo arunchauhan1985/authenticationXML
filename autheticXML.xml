@@ -214,8 +214,8 @@
     <message_version display="false"></message_version>
   </application>
   <application id="conversionplus">
-    <application_name>Reader Plus PDF Conversion Tool</application_name>
-    <application_expiry>30/01/2022</application_expiry>
+    <application_name>Conversion Plus PDF Conversion Tool</application_name>
+    <application_expiry>30/04/2023</application_expiry>
     <app_start>true</app_start>
     <version>1.0.1</version>
     <updated_version>1.0.1</updated_version>
