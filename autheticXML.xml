@@ -213,7 +213,7 @@
     <valid_ips>10.11.2.226:true;</valid_ips>
     <message_version display="false"></message_version>
   </application>
-  <application id="RPLUS">
+  <application id="conversionplus">
     <application_name>Reader Plus PDF Conversion Tool</application_name>
     <application_expiry>30/01/2022</application_expiry>
     <app_start>true</app_start>
