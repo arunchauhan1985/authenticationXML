@@ -956,4 +956,14 @@
       <Testing>Offline</Testing>
     </serverDetails>
   </application>
+  <application id="anyvnv">
+    <application_name>PDF Validation and Verification</application_name>
+    <application_expiry>30/04/2023</application_expiry>
+    <app_start>true</app_start>
+    <version></version>
+    <updated_version></updated_version>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+  </application>
 </auth>
