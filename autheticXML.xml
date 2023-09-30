@@ -11,6 +11,16 @@
     <valid_ips>10.11.2.226:true;</valid_ips>
     <message_version display="false"></message_version>
   </application>
+  <application id="MacmillanFlipbookSmartZoner">
+    <application_name>Macmillan Flipbook Smart Zoner</application_name>
+    <application_expiry>25/10/2023</application_expiry>
+    <app_start>true</app_start>
+    <version>1.0.1</version>
+    <updated_version>1.0.1</updated_version>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+  </application>
   <application id="PPTtoPDFApp">
     <application_name>PPT to PDF Tool</application_name>
     <application_expiry>25/10/2023</application_expiry>
