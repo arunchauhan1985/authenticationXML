@@ -123,7 +123,7 @@
       <Testing>Offline</Testing>
     </serverDetails>
   </application>
-  <application id="Word2ppt_ver2">
+  <application id="Word2ppt_ver4">
     <application_name>Word to PPT</application_name>
     <application_expiry>30/12/2023</application_expiry>
     <app_start>true</app_start>
