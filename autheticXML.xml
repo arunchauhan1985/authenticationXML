@@ -33,7 +33,7 @@
   </application>
   <application id="QBSFXLConversion">
     <application_name>QBSFXLConversion</application_name>
-    <application_expiry>29/12/2023</application_expiry>
+    <application_expiry>29/12/2025</application_expiry>
     <app_start>true</app_start>
     <version>1.0.0</version>
     <updated_version>1.0.0</updated_version>
@@ -51,7 +51,7 @@
   </application>
    <application id="QBSRFLConversion">
     <application_name>QBSRFLConversion</application_name>
-    <application_expiry>29/12/2023</application_expiry>
+    <application_expiry>29/12/2024</application_expiry>
     <app_start>true</app_start>
     <version>1.0.0</version>
     <updated_version>1.0.0</updated_version>
@@ -144,7 +144,7 @@
   </application>
   <application id="epubFix">
     <application_name>epubFix</application_name>
-    <application_expiry>30/12/2023</application_expiry>
+    <application_expiry>30/12/2024</application_expiry>
     <app_start>true</app_start>
     <version>1.0.0</version>
     <updated_version>1.0.0</updated_version>
