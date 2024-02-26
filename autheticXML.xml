@@ -33,7 +33,7 @@
   </application>
   <application id="QBSFXLConversion">
     <application_name>QBSFXLConversion</application_name>
-    <application_expiry>29/12/2025</application_expiry>
+    <application_expiry>29/12/2023</application_expiry>
     <app_start>true</app_start>
     <version>1.0.0</version>
     <updated_version>1.0.0</updated_version>
@@ -51,7 +51,7 @@
   </application>
    <application id="QBSRFLConversion">
     <application_name>QBSRFLConversion</application_name>
-    <application_expiry>29/12/2024</application_expiry>
+    <application_expiry>29/12/2023</application_expiry>
     <app_start>true</app_start>
     <version>1.0.0</version>
     <updated_version>1.0.0</updated_version>
@@ -69,7 +69,7 @@
   </application>
   <application id="BookCompareKit">
     <application_name>BookCompareKit</application_name>
-    <application_expiry>29/12/2024</application_expiry>
+    <application_expiry>29/12/2023</application_expiry>
     <app_start>true</app_start>
     <version>1.0.0</version>
     <updated_version>1.0.0</updated_version>
@@ -106,7 +106,7 @@
   </application>
    <application id="Word2ppt">
     <application_name>Word to PPT</application_name>
-    <application_expiry>30/12/2024</application_expiry>
+    <application_expiry>30/12/2023</application_expiry>
     <app_start>false</app_start>
     <version>1.0.0</version>
     <updated_version>1.0.0</updated_version>
@@ -125,7 +125,7 @@
   </application>
   <application id="Word2ppt_ver4">
     <application_name>Word to PPT</application_name>
-    <application_expiry>30/12/2024</application_expiry>
+    <application_expiry>30/12/2023</application_expiry>
     <app_start>true</app_start>
     <version>1.0.0</version>
     <updated_version>1.0.0</updated_version>
