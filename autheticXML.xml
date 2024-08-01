@@ -182,7 +182,7 @@
   </application>
    <application id="epub_accessibility_checker">
     <application_name>epub accessibility checker</application_name>
-    <application_expiry>30/07/2024</application_expiry>
+    <application_expiry>30/08/2024</application_expiry>
     <app_start>true</app_start>
     <version>1.0.0</version>
     <updated_version>1.0.0</updated_version>
