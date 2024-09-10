@@ -220,7 +220,7 @@
   </application>
    <application id="remediatoracademian">
     <application_name>epub accessibility Remediator</application_name>
-    <application_expiry>10/09/2024</application_expiry>
+    <application_expiry>10/10/2024</application_expiry>
     <app_start>true</app_start>
     <version>1.0.0</version>
     <updated_version>1.0.0</updated_version>
