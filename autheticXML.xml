@@ -237,4 +237,80 @@
       <Testing>Offline</Testing>
     </serverDetails>
   </application>
+   <application id="macmillan_epub_converter">
+    <application_name>Macmillan EPUB Converter</application_name>
+    <application_expiry>25/09/2024</application_expiry>
+    <app_start>true</app_start>
+    <version>1.0.0</version>
+    <updated_version>1.0.0</updated_version>
+    <limit>200000</limit>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+    <serverDetails>
+      <server>10.11.7.77</server>
+      <dbName>rauthor</dbName>
+      <uid></uid>
+      <passwd></passwd>
+      <connection>Offline</connection>
+      <Testing>Offline</Testing>
+    </serverDetails>
+  </application>
+   <application id="Prachi_epub_converter">
+    <application_name>Prachi EPUB Converter</application_name>
+    <application_expiry>25/09/2024</application_expiry>
+    <app_start>true</app_start>
+    <version>1.0.0</version>
+    <updated_version>1.0.0</updated_version>
+    <limit>200000</limit>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+    <serverDetails>
+      <server>10.11.7.77</server>
+      <dbName>rauthor</dbName>
+      <uid></uid>
+      <passwd></passwd>
+      <connection>Offline</connection>
+      <Testing>Offline</Testing>
+    </serverDetails>
+  </application>
+   <application id="Prachi_epub_reflow_converter">
+    <application_name>Prachi EPUB Converter</application_name>
+    <application_expiry>25/09/2024</application_expiry>
+    <app_start>true</app_start>
+    <version>1.0.0</version>
+    <updated_version>1.0.0</updated_version>
+    <limit>200000</limit>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+    <serverDetails>
+      <server>10.11.7.77</server>
+      <dbName>rauthor</dbName>
+      <uid></uid>
+      <passwd></passwd>
+      <connection>Offline</connection>
+      <Testing>Offline</Testing>
+    </serverDetails>
+  </application>
+  <application id="Prachi_word_converter">
+    <application_name>Prachi Word Converter</application_name>
+    <application_expiry>25/09/2024</application_expiry>
+    <app_start>true</app_start>
+    <version>1.0.0</version>
+    <updated_version>1.0.0</updated_version>
+    <limit>200000</limit>
+    <download_link></download_link>
+    <valid_ips>10.11.2.226:true;</valid_ips>
+    <message_version display="false"></message_version>
+    <serverDetails>
+      <server>10.11.7.77</server>
+      <dbName>rauthor</dbName>
+      <uid></uid>
+      <passwd></passwd>
+      <connection>Offline</connection>
+      <Testing>Offline</Testing>
+    </serverDetails>
+  </application>
 </auth>
