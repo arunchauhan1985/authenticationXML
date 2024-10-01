@@ -315,7 +315,7 @@
   </application>
    <application id="nexpage_win_bnc">
     <application_name>Nexpage ePUB Converter</application_name>
-    <application_expiry>30/09/2024</application_expiry>
+    <application_expiry>30/10/2024</application_expiry>
     <app_start>true</app_start>
     <version>1.0.0</version>
     <updated_version>1.0.0</updated_version>
