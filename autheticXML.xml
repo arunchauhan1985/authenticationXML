@@ -1,6 +1,5 @@
 <auth>
   <app_domain>MAGICSW|magicsw|Magicsw|MAGICEDTECH|MagicEdtech|GuruKripa-PC|AZDigitalConv01|AZDigitalConv03|AZDigitalConv02</app_domain>
-  
   <application id="image2mathHMH">
     <application_name>Image to MATH Tool</application_name>
     <application_expiry>25/06/2023</application_expiry>
@@ -49,7 +48,7 @@
       <connection>Offline</connection>
     </serverDetails>
   </application>
-   <application id="QBSRFLConversion">
+  <application id="QBSRFLConversion">
     <application_name>QBSRFLConversion</application_name>
     <application_expiry>29/12/2023</application_expiry>
     <app_start>true</app_start>
@@ -85,7 +84,7 @@
       <connection>Offline</connection>
     </serverDetails>
   </application>
-   <application id="mac_resourcefileslist">
+  <application id="mac_resourcefileslist">
     <application_name>mac resourcefileslist</application_name>
     <application_expiry>30/12/2024</application_expiry>
     <app_start>true</app_start>
@@ -104,7 +103,7 @@
       <Testing>Offline</Testing>
     </serverDetails>
   </application>
-   <application id="Word2ppt">
+  <application id="Word2ppt">
     <application_name>Word to PPT</application_name>
     <application_expiry>30/12/2023</application_expiry>
     <app_start>false</app_start>
@@ -161,7 +160,7 @@
       <Testing>Offline</Testing>
     </serverDetails>
   </application>
-   <application id="reftagger">
+  <application id="reftagger">
     <application_name>reftagger</application_name>
     <application_expiry>30/07/2024</application_expiry>
     <app_start>true</app_start>
@@ -180,7 +179,7 @@
       <Testing>Offline</Testing>
     </serverDetails>
   </application>
-   <application id="epub_accessibility_checker">
+  <application id="epub_accessibility_checker">
     <application_name>epub accessibility checker</application_name>
     <application_expiry>30/10/2024</application_expiry>
     <app_start>true</app_start>
@@ -199,7 +198,7 @@
       <Testing>Offline</Testing>
     </serverDetails>
   </application>
-   <application id="epubremediatoracademian">
+  <application id="epubremediatoracademian">
     <application_name>epub accessibility Remediator</application_name>
     <application_expiry>10/09/2024</application_expiry>
     <app_start>false</app_start>
@@ -218,7 +217,7 @@
       <Testing>Offline</Testing>
     </serverDetails>
   </application>
-   <application id="remediatoracademian">
+  <application id="remediatoracademian">
     <application_name>epub accessibility Remediator</application_name>
     <application_expiry>10/10/2024</application_expiry>
     <app_start>true</app_start>
@@ -237,7 +236,7 @@
       <Testing>Offline</Testing>
     </serverDetails>
   </application>
-   <application id="macmillan_epub_converter">
+  <application id="macmillan_epub_converter">
     <application_name>Macmillan EPUB Converter</application_name>
     <application_expiry>30/09/2024</application_expiry>
     <app_start>true</app_start>
@@ -256,7 +255,7 @@
       <Testing>Offline</Testing>
     </serverDetails>
   </application>
-   <application id="Prachi_epub_converter">
+  <application id="Prachi_epub_converter">
     <application_name>Prachi EPUB Converter</application_name>
     <application_expiry>30/09/2024</application_expiry>
     <app_start>true</app_start>
@@ -275,7 +274,7 @@
       <Testing>Offline</Testing>
     </serverDetails>
   </application>
-   <application id="Prachi_epub_reflow_converter">
+  <application id="Prachi_epub_reflow_converter">
     <application_name>Prachi EPUB Converter</application_name>
     <application_expiry>30/09/2024</application_expiry>
     <app_start>true</app_start>
@@ -313,7 +312,7 @@
       <Testing>Offline</Testing>
     </serverDetails>
   </application>
-   <application id="nexpage_win_bnc">
+  <application id="nexpage_win_bnc">
     <application_name>Nexpage ePUB Converter</application_name>
     <application_expiry>30/10/2024</application_expiry>
     <app_start>true</app_start>
@@ -350,9 +349,9 @@
       <connection>Offline</connection>
       <Testing>Offline</Testing>
     </serverDetails>
-      </application>
-     <application id="jk_ac_win_bnc">
-    <application_name>Academian ePUB Converter</application_name>
+  </application>
+  <application id="jk_ac_win_bnc">
+    <application_name>NexPage JK ePUB Converter</application_name>
     <application_expiry>30/10/2024</application_expiry>
     <app_start>true</app_start>
     <version>1.0.0</version>
