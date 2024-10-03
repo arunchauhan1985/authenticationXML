@@ -350,6 +350,7 @@
       <connection>Offline</connection>
       <Testing>Offline</Testing>
     </serverDetails>
+      </application>
      <application id="jk_ac_win_bnc">
     <application_name>Academian ePUB Converter</application_name>
     <application_expiry>30/10/2024</application_expiry>
