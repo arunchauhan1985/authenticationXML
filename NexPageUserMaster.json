@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "username": "user1",
+      "password": "Password@123",
+      "active": true,
+      "organisation": "Macmillan"
+    },{
+      "username": "nexpagedemo",
+      "password": "Password@123",
+      "active": true,
+      "organisation": "Nexority"
+    }
+  ]
+}
