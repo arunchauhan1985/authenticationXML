@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "username": "user1",
+      "password": "password1",
+      "active": true,
+      "organisation": "Academian"
+    },
+    {
+      "username": "user2",
+      "password": "password2",
+      "active": false,
+      "organisation": "Academian"
+    }
+  ]
+}
