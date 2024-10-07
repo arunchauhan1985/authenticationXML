@@ -1,16 +1,22 @@
 {
   "users": [
     {
-      "username": "user1",
-      "password": "password1",
+      "username": "unidream.user1",
+      "password": "Unidream@123",
       "active": true,
-      "organisation": "Academian"
+      "organisation": "Unidream"
     },
     {
-      "username": "user2",
-      "password": "password2",
+      "username": "ozone.user1",
+      "password": "Ozone@123",
       "active": false,
-      "organisation": "Academian"
+      "organisation": "Ozone"
+    },
+    {
+      "username": "nexority.user1",
+      "password": "Nexority@123",
+      "active": false,
+      "organisation": "Nexority"
     }
   ]
 }
