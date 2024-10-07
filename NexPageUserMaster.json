@@ -3,12 +3,12 @@
     {
       "username": "user1",
       "password": "Password@123",
-      "active": true,
+      "active": false,
       "organisation": "Macmillan"
     },{
       "username": "nexpagedemo",
       "password": "Password@123",
-      "active": true,
+      "active": false,
       "organisation": "Nexority"
     }
   ]
