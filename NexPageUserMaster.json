@@ -10,6 +10,11 @@
       "password": "Password@123",
       "active": false,
       "organisation": "Nexority"
+    },{
+      "username": "surabhi.usr1",
+      "password": "Surabhi@123",
+      "active": true,
+      "organisation": "Macmillan"
     }
   ]
 }
