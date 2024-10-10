@@ -9,13 +9,13 @@
     {
       "username": "ozone.user1",
       "password": "Ozone@123",
-      "active": false,
+      "active": true,
       "organisation": "Ozone"
     },
     {
       "username": "nexority.user1",
       "password": "Nexority@123",
-      "active": false,
+      "active": true,
       "organisation": "Nexority"
     }
   ]
