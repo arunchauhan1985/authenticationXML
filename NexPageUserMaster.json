@@ -15,6 +15,11 @@
       "password": "Surabhi@123",
       "active": true,
       "organisation": "Macmillan"
+    },{
+      "username": "sunny.verma",
+      "password": "QBSLearning@123",
+      "active": true,
+      "organisation": "QBS Learning"
     }
   ]
 }
