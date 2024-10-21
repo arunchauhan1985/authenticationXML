@@ -20,6 +20,11 @@
       "password": "QBSLearning@123",
       "active": true,
       "organisation": "QBS Learning"
+    },{
+      "username": "prachi.usr1",
+      "password": "Prachi@123@#",
+      "active": true,
+      "organisation": "Prachi Publication"
     }
   ]
 }
