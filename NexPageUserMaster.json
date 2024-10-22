@@ -25,6 +25,11 @@
       "password": "Prachi@123@#",
       "active": true,
       "organisation": "Prachi Publication"
+    },{
+      "username": "jay.p",
+      "password": "Jay@123@#",
+      "active": true,
+      "organisation": "Zuriets"
     }
   ]
 }
