@@ -334,7 +334,7 @@
   <application id="academian_win_bnc">
     <application_name>Academian ePUB Converter</application_name>
     <application_expiry>30/10/2024</application_expiry>
-    <app_start>false</app_start>
+    <app_start>true</app_start>
     <version>1.0.0</version>
     <updated_version>1.0.0</updated_version>
     <limit>200000</limit>
