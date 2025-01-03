@@ -391,7 +391,7 @@
    <application id="Prachi_FXL_CONV">
     <application_name>Prachi ePUB Converter</application_name>
     <application_expiry>30/12/2024</application_expiry>
-    <app_start>true</app_start>
+    <app_start>false</app_start>
     <version>1.0.0</version>
     <updated_version>1.0.0</updated_version>
     <limit>200000</limit>
@@ -410,7 +410,7 @@
     <application id="Prachi_FXL_IMGCONV">
     <application_name>Prachi Image Converter</application_name>
     <application_expiry>30/12/2024</application_expiry>
-    <app_start>true</app_start>
+    <app_start>false</app_start>
     <version>1.0.0</version>
     <updated_version>1.0.0</updated_version>
     <limit>200000</limit>
