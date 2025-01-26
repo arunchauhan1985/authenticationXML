@@ -257,7 +257,7 @@
   </application>
   <application id="Prachi_epub_converter">
     <application_name>Prachi EPUB Converter</application_name>
-    <application_expiry>30/01/2025</application_expiry>
+    <application_expiry>30/01/2024</application_expiry>
     <app_start>false</app_start>
     <version>1.0.0</version>
     <updated_version>1.0.0</updated_version>
@@ -390,7 +390,7 @@
   </application>
    <application id="Prachi_FXL_CONV">
     <application_name>Prachi ePUB Converter</application_name>
-    <application_expiry>30/12/2025</application_expiry>
+    <application_expiry>30/12/2024</application_expiry>
     <app_start>true</app_start>
     <version>1.0.0</version>
     <updated_version>1.0.0</updated_version>
@@ -409,7 +409,7 @@
   </application>
     <application id="Prachi_FXL_IMGCONV">
     <application_name>Prachi Image Converter</application_name>
-    <application_expiry>30/12/2025</application_expiry>
+    <application_expiry>30/12/2024</application_expiry>
     <app_start>true</app_start>
     <version>1.0.0</version>
     <updated_version>1.0.0</updated_version>
