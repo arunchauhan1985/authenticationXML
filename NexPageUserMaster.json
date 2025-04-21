@@ -4,32 +4,50 @@
       "username": "user1",
       "password": "Password@123",
       "active": false,
+      "AllowPages": 50,
       "organisation": "Macmillan"
     },{
       "username": "nexpagedemo",
       "password": "Password@123",
       "active": false,
+      "AllowPages": 50,
       "organisation": "Nexority"
     },{
       "username": "surabhi.usr1",
       "password": "Surabhi@123",
-      "active": true,
+      "active": false,
+      "AllowPages": 50,
       "organisation": "Macmillan"
     },{
       "username": "sunny.verma",
       "password": "QBSLearning@123",
-      "active": true,
+      "active": false,
+      "AllowPages": 50,
       "organisation": "QBS Learning"
     },{
       "username": "prachi.usr1",
       "password": "Prachi@123@#",
-      "active": true,
+      "active": false,
+      "AllowPages": 50,
       "organisation": "Prachi Publication"
     },{
       "username": "zuriets.usr1",
       "password": "Zuriets@123@#",
       "active": true,
+      "AllowPages": 50,
       "organisation": "Zuriets"
+    } ,{
+      "username": "demo",
+      "password": "Password@123",
+      "active": true,
+      "AllowPages": 50,
+      "organisation": "Demo Account"
+    },{
+      "username": "pradeep.maurya",
+      "password": "PrMa@123@#",
+      "active": true,
+      "AllowPages": 500,
+      "organisation": "Pradeep Account"
     }
   ]
 }
