@@ -35,18 +35,21 @@
       "password": "Zuriets@123@#",
       "active": true,
       "AllowPages": 50,
+	  "RechargeCoupon": "NEXCONA0002",
       "organisation": "Zuriets"
     } ,{
       "username": "demo",
       "password": "Password@123",
       "active": true,
       "AllowPages": 50,
+	  "RechargeCoupon": "NEXCONA0001",
       "organisation": "Demo Account"
     },{
       "username": "pradeep.maurya",
       "password": "PrMa@123@#",
       "active": true,
       "AllowPages": 500,
+	  "RechargeCoupon": "NEXCONA0000",
       "organisation": "Pradeep Account"
     }
   ]
