@@ -34,7 +34,7 @@
       "username": "zuriets.usr1",
       "password": "Zuriets@123@#",
       "active": true,
-      "AllowPages": 50,
+      "AllowPages": 100,
 	  "RechargeCoupon": "NEXCONA0002",
       "organisation": "Zuriets"
     } ,{
