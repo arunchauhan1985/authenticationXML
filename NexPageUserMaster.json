@@ -28,12 +28,12 @@
       "username": "prachi.usr1",
       "password": "Prachi@123@#",
       "active": false,
-      "AllowPages": 500,
+      "AllowPages": 50,
       "organisation": "Prachi Publication"
     },{
       "username": "zuriets.usr1",
       "password": "Zuriets@123@#",
-      "active": true,
+      "active": false,
       "AllowPages": 100,
 	  "RechargeCoupon": "NEXCONA0002",
       "organisation": "Zuriets"
@@ -47,8 +47,8 @@
     },{
       "username": "pradeep.maurya",
       "password": "PrMa@123@#",
-      "active": true,
-      "AllowPages": 5000,
+      "active": false,
+      "AllowPages": 0,
 	  "RechargeCoupon": "NEXCONA0000",
       "organisation": "Pradeep Account"
     }
