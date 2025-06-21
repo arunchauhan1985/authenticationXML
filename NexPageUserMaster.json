@@ -28,7 +28,7 @@
       "username": "prachi.usr1",
       "password": "Prachi@123@#",
       "active": false,
-      "AllowPages": 50,
+      "AllowPages": 500,
       "organisation": "Prachi Publication"
     },{
       "username": "zuriets.usr1",
@@ -48,7 +48,7 @@
       "username": "pradeep.maurya",
       "password": "PrMa@123@#",
       "active": true,
-      "AllowPages": 500,
+      "AllowPages": 5000,
 	  "RechargeCoupon": "NEXCONA0000",
       "organisation": "Pradeep Account"
     }
