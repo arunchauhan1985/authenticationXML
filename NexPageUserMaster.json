@@ -15,8 +15,8 @@
     },{
       "username": "surabhi.usr1",
       "password": "Surabhi@123",
-      "active": false,
-      "AllowPages": 50,
+      "active": true,
+      "AllowPages": 500,
       "organisation": "Macmillan"
     },{
       "username": "sunny.verma",
