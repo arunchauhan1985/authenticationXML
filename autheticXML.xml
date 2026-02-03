@@ -315,7 +315,7 @@
   <application id="nexpage_win_bnc">
     <application_name>Nexpage ePUB Converter</application_name>
     <application_expiry>10/07/2026</application_expiry>
-    <app_start>true</app_start>
+    <app_start>false</app_start>
     <version>1.0.0</version>
     <updated_version>1.0.0</updated_version>
     <limit>200000</limit>
@@ -333,8 +333,8 @@
   </application>
   <application id="nexpage_win_bnc_kisan">
     <application_name>Nexpage ePUB Converter</application_name>
-    <application_expiry>10/07/2026</application_expiry>
-    <app_start>true</app_start>
+    <application_expiry>10/07/2025</application_expiry>
+    <app_start>false</app_start>
     <version>1.0.0</version>
     <updated_version>1.0.0</updated_version>
     <limit>200000</limit>
@@ -353,7 +353,7 @@
   <application id="academian_win_bnc">
     <application_name>Academian ePUB Converter</application_name>
     <application_expiry>30/12/2025</application_expiry>
-    <app_start>true</app_start>
+    <app_start>false</app_start>
     <version>1.0.0</version>
     <updated_version>1.0.0</updated_version>
     <limit>200000</limit>
@@ -372,7 +372,7 @@
   <application id="jk_ac_win_bnc">
     <application_name>NexPage JK ePUB Converter</application_name>
     <application_expiry>30/12/2024</application_expiry>
-    <app_start>true</app_start>
+    <app_start>false</app_start>
     <version>1.0.0</version>
     <updated_version>1.0.0</updated_version>
     <limit>200000</limit>
@@ -391,7 +391,7 @@
    <application id="QB_FXL_CONV">
     <application_name>NexPage QBS ePUB Converter</application_name>
     <application_expiry>30/10/2025</application_expiry>
-    <app_start>true</app_start>
+    <app_start>false</app_start>
     <version>1.0.0</version>
     <updated_version>1.0.0</updated_version>
     <limit>200000</limit>
@@ -409,8 +409,8 @@
   </application>
    <application id="Prachi_FXL_CONV">
     <application_name>Prachi ePUB Converter</application_name>
-    <application_expiry>10/07/2026</application_expiry>
-    <app_start>true</app_start>
+    <application_expiry>10/07/2025</application_expiry>
+    <app_start>false</app_start>
     <version>1.0.0</version>
     <updated_version>1.0.0</updated_version>
     <limit>200000</limit>
@@ -466,8 +466,8 @@
   </application>
    <application id="nexpage_win_bnc_prachi">
     <application_name>NexPage BEC Conversion</application_name>
-    <application_expiry>10/07/2026</application_expiry>
-    <app_start>true</app_start>
+    <application_expiry>10/07/2025</application_expiry>
+    <app_start>false</app_start>
     <version>1.0.0</version>
     <updated_version>1.0.0</updated_version>
     <limit>200000</limit>
@@ -503,6 +503,7 @@
     </serverDetails>
   </application>
 </auth>
+
 
 
 
