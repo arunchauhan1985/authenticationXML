@@ -352,7 +352,7 @@
   </application>
   <application id="academian_win_bnc">
     <application_name>Academian ePUB Converter</application_name>
-    <application_expiry>30/12/2025</application_expiry>
+    <application_expiry>30/12/2026</application_expiry>
     <app_start>false</app_start>
     <version>1.0.0</version>
     <updated_version>1.0.0</updated_version>
@@ -390,7 +390,7 @@
   </application>
    <application id="QB_FXL_CONV">
     <application_name>NexPage QBS ePUB Converter</application_name>
-    <application_expiry>30/10/2025</application_expiry>
+    <application_expiry>30/10/2026</application_expiry>
     <app_start>false</app_start>
     <version>1.0.0</version>
     <updated_version>1.0.0</updated_version>
